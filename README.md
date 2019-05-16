@@ -13,7 +13,7 @@
 欢迎关注公众号：**大迁世界**，你的成长我们一起见证！
 
 
-### | JavaScript是如何工作的 
+### | JavaScript是如何工作的系列
 
 
 1.[JavaScript是如何工作的：引擎，运行时和调用堆栈的概述](https://github.com/qq449245884/xiaozhi/issues/1)
