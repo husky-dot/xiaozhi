@@ -20,7 +20,7 @@
 
 2.[JavaScript是如何工作的：深入V8引擎&编写优化代码的5个技巧](https://github.com/qq449245884/xiaozhi/issues/2)
 
-
+3.[JavaScript如何工作:内存管理+如何处理4个常见的内存泄漏](https://github.com/qq449245884/xiaozhi/issues/3)
 
 
 
