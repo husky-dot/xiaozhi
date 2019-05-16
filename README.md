@@ -16,7 +16,20 @@
 > ## JavaScript是如何工作的 
 
 
+1.[JavaScript是如何工作的：引擎，运行时和调用堆栈的概述](https://github.com/qq449245884/xiaozhi/issues/1)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/35094245/57830058-825e2400-77e3-11e9-9bbf-2d83936e8dc9.png)
 
-1.[JavaScript是如何工作的：引擎，运行时和调用堆栈的概述](https://github.com/qq449245884/xiaozhi/issues/1)
+
