@@ -18,7 +18,7 @@
 
 1.[JavaScript是如何工作的：引擎，运行时和调用堆栈的概述](https://github.com/qq449245884/xiaozhi/issues/1)
 
-
+2.[JavaScript是如何工作的：深入V8引擎&编写优化代码的5个技巧](https://github.com/qq449245884/xiaozhi/issues/2)
 
 
 
