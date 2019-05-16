@@ -26,6 +26,41 @@
 
 5.[JavaScript是如何工作: 深入探索 websocket 和HTTP/2与SSE +如何选择正确的路径 ](https://github.com/qq449245884/xiaozhi/issues/5)
 
+6.[JavaScript是如何工作的:与 WebAssembly比较 及其使用场景](https://github.com/qq449245884/xiaozhi/issues/6)
+
+7.[JavaScript是如何工作的:Web Workers的构建块+ 5个使用他们的场景](https://github.com/qq449245884/xiaozhi/issues/7)
+
+8.[JavaScript 是如何工作的：Service Worker 的生命周期及使用场景](https://github.com/qq449245884/xiaozhi/issues/8)
+
+9.[JavaScript是如何工作的:Web推送通知的机制](https://github.com/qq449245884/xiaozhi/issues/9)
+
+10.[JavaScript是如何工作的:使用 MutationObserver 跟踪 DOM 的变化](https://github.com/qq449245884/xiaozhi/issues/10)
+
+11.[JavaScript是如何工作的:渲染引擎和优化其性能的技巧](https://github.com/qq449245884/xiaozhi/issues/11)
+
+12.[JavaScript 是如何工作的：深入网络层 + 如何优化性能和安全](https://github.com/qq449245884/xiaozhi/issues/12)
+
+13.[JavaScript是如何工作的: CSS 和 JS 动画底层原理及如何优化它们的性能](https://github.com/qq449245884/xiaozhi/issues/13)
+
+14.[JavaScript 是如何工作的：解析、抽象语法树（AST）+ 提升编译速度5个技巧](https://github.com/qq449245884/xiaozhi/issues/14)
+
+15.[JavaScript是如何工作的：深入类和继承内部原理+Babel和 TypeScript 之间转换](https://github.com/qq449245884/xiaozhi/issues/15)
+
+16.[JavaScript是如何工作的:存储引擎+如何选择合适的存储API](https://github.com/qq449245884/xiaozhi/issues/16)
+
+17.[JavaScript 是如何工作: Shadow DOM 的内部结构+如何编写独立的组件](https://github.com/qq449245884/xiaozhi/issues/17)
+
+18.[JavaScript 是如何工作的:WebRTC 和对等网络的机制 ](https://github.com/qq449245884/xiaozhi/issues/18)
+
+19.[JavaScript 是如何工作的：编写自己的 Web 开发框架 + React 及其虚拟 DOM 原理](https://github.com/qq449245884/xiaozhi/issues/19)
+
+20.[JavaScript 是如何工作的：模块的构建以及对应的打包工具](https://github.com/qq449245884/xiaozhi/issues/20)
+
+21.[JavaScript 是如何工作的：JavaScript 的内存模型 ](https://github.com/qq449245884/xiaozhi/issues/21)
+
+22.[JavaScript 是如何工作的：JavaScript 的共享传递和按值传递](https://github.com/qq449245884/xiaozhi/issues/22)
+
+
 
 
 
