@@ -63,7 +63,7 @@
 
 ### | 前端面试 系列
 
-1.[Javascript 面试的完美指南(开发者视角)](Javascript 面试的完美指南(开发者视角))
+1.[Javascript 面试的完美指南(开发者视角)](https://github.com/qq449245884/xiaozhi/issues/24)
 
 ### | ECMAScript 系列
 
