@@ -60,6 +60,10 @@
 
 22.[JavaScript 是如何工作的：JavaScript 的共享传递和按值传递](https://github.com/qq449245884/xiaozhi/issues/22)
 
+### | 前端性能优化 系列
+
+1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
+
 
 ### | 前端面试 系列
 
