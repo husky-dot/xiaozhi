@@ -66,6 +66,14 @@
 
 2. [Web 性能优化： 图片优化让网站大小减少 62%](https://github.com/qq449245884/xiaozhi/issues/26)
 
+3. [Web 性能优化：缓存 React 事件来提高性能](https://github.com/qq449245884/xiaozhi/issues/27)
+
+4. [Web 性能优化：21种优化CSS和加快网站速度的方法](https://github.com/qq449245884/xiaozhi/issues/28)
+
+5. [Web 性能优化：理解及使用 JavaScript 缓存 ](https://github.com/qq449245884/xiaozhi/issues/29)
+
+6. [Web 性能优化：Preload,Prefetch的使用及在 Chrome 中的优先级](https://github.com/qq449245884/xiaozhi/issues/30)
+
 ### | 前端面试 系列
 
 1. [Javascript 面试的完美指南(开发者视角)](https://github.com/qq449245884/xiaozhi/issues/24)
