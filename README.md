@@ -78,6 +78,11 @@
 
 1. [用 JavaScript 实现链表 ](https://github.com/qq449245884/xiaozhi/issues/31)
 
+
+### | Web 应用安全性 系列
+
+1. [Web 应用安全性: 浏览器是如何工作的](https://github.com/qq449245884/xiaozhi/issues/32)
+
 ### | 前端面试 系列
 
 1. [Javascript 面试的完美指南(开发者视角)](https://github.com/qq449245884/xiaozhi/issues/24)
