@@ -74,6 +74,10 @@
 
 6. [Web 性能优化：Preload,Prefetch的使用及在 Chrome 中的优先级](https://github.com/qq449245884/xiaozhi/issues/30)
 
+### | JavaScript 数据结构 系列
+
+1. [用 JavaScript 实现链表 ](https://github.com/qq449245884/xiaozhi/issues/31)
+
 ### | 前端面试 系列
 
 1. [Javascript 面试的完美指南(开发者视角)](https://github.com/qq449245884/xiaozhi/issues/24)
