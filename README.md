@@ -83,6 +83,10 @@
 
 1. [Web 应用安全性: 浏览器是如何工作的](https://github.com/qq449245884/xiaozhi/issues/32)
 
+2. [Web 应用安全性: HTTP简介](https://github.com/qq449245884/xiaozhi/issues/33)
+
+3. [Web 应用安全性: 使用这些 HTTP 头保护 Web 应用 ](https://github.com/qq449245884/xiaozhi/issues/34)
+
 ### | 前端面试 系列
 
 1. [Javascript 面试的完美指南(开发者视角)](https://github.com/qq449245884/xiaozhi/issues/24)
