@@ -97,6 +97,8 @@
 
 2. [前端面试：谈谈 JS 垃圾回收机制](https://github.com/qq449245884/xiaozhi/issues/36)
 
+3. [Javascript 面试中经常被问到的三个问题！](https://github.com/qq449245884/xiaozhi/issues/37)
+
 ### | ECMAScript 系列
 
 
