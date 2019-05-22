@@ -95,6 +95,8 @@
 
 1. [Javascript 面试的完美指南(开发者视角)](https://github.com/qq449245884/xiaozhi/issues/24)
 
+2. [前端面试：谈谈 JS 垃圾回收机制](https://github.com/qq449245884/xiaozhi/issues/36)
+
 ### | ECMAScript 系列
 
 
