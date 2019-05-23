@@ -110,6 +110,7 @@
 
 1. [创建华丽 UI 的 7条规则 第一部分 (2019年更新) ](https://github.com/qq449245884/xiaozhi/issues/38)
 
+2. [创建华丽 UI 的 7条规则  第二部分 (2019年更新)](https://github.com/qq449245884/xiaozhi/issues/39)
 
 
 
