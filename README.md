@@ -108,6 +108,9 @@
 
 1. [ECMAScript 2016、2017和2018中所有新特性](https://github.com/qq449245884/xiaozhi/issues/23)
 
+### | CSS 系列
+
+1.[45个值得收藏的 CSS 形状 ](https://github.com/qq449245884/xiaozhi/issues/42)
 
 ### | UI设计 系列
 
