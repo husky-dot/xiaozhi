@@ -82,7 +82,7 @@
 
 1. [11 种在大多数教程中找不到的JavaScript技巧 ](https://github.com/qq449245884/xiaozhi/issues/40)
 
-
+2. [JavaScript 的内存模型 ](https://github.com/qq449245884/xiaozhi/issues/46)
 
 ### | React 造轮子 系列
 
