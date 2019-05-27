@@ -82,10 +82,16 @@
 
 1. [11 种在大多数教程中找不到的JavaScript技巧 ](https://github.com/qq449245884/xiaozhi/issues/40)
 
+
+
 ### | React 造轮子 系列
 
 1. [React 造轮子系列：Icon 组件思路](https://github.com/qq449245884/xiaozhi/issues/35)
 2. [React造轮系列：对话框组件 - Dialog 思路](https://github.com/qq449245884/xiaozhi/issues/41)
+
+### | React 系列
+
+1. [React高级组件精讲](https://github.com/qq449245884/xiaozhi/issues/44)
 
 ### | Web 应用安全性 系列
 
