@@ -109,6 +109,12 @@
 
 3. [Javascript 面试中经常被问到的三个问题！](https://github.com/qq449245884/xiaozhi/issues/37)
 
+### | 前端技巧 系列
+
+1. [灵活使用 console 让 js 调试更简单](https://github.com/qq449245884/xiaozhi/issues/45)
+
+
+
 ### | ECMAScript 系列
 
 
