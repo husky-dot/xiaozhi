@@ -124,7 +124,7 @@
 
 1. [45个值得收藏的 CSS 形状 ](https://github.com/qq449245884/xiaozhi/issues/42)
 2. [前端学习之路之自适应设计(sass语法) ](https://github.com/qq449245884/xiaozhi/issues/43)
-
+3. [8个有用的 CSS 技巧:视差图像，sticky footer 等等](https://github.com/qq449245884/xiaozhi/issues/47)
 
 ### | UI设计 系列
 
