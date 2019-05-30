@@ -94,7 +94,7 @@
 
 1. [React高级组件精讲](https://github.com/qq449245884/xiaozhi/issues/44)
 
-2 .[React 项目结构和组件命名规范 ](https://github.com/qq449245884/xiaozhi/issues/49)
+2. [React 项目结构和组件命名规范 ](https://github.com/qq449245884/xiaozhi/issues/49)
 
 3. [你要的 React 面试知识点，都在这了 ](https://github.com/qq449245884/xiaozhi/issues/50)
 
