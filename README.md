@@ -120,6 +120,7 @@
 
 3. [Javascript 面试中经常被问到的三个问题！](https://github.com/qq449245884/xiaozhi/issues/37)
 
+4. [不要这样写简历](https://github.com/qq449245884/xiaozhi/issues/51)
 
 
 ### | 前端技巧 系列
