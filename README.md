@@ -90,6 +90,8 @@
 
 2. [React造轮系列：对话框组件 - Dialog 思路](https://github.com/qq449245884/xiaozhi/issues/41)
 
+3. [React造轮系列：Layout 组件思路](https://github.com/qq449245884/xiaozhi/issues/52)
+
 ### | React 系列
 
 1. [React高级组件精讲](https://github.com/qq449245884/xiaozhi/issues/44)
