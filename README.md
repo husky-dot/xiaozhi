@@ -84,6 +84,8 @@
 
 2. [JavaScript 的内存模型 ](https://github.com/qq449245884/xiaozhi/issues/46)
 
+3. [我从来不理解JavaScript闭包，直到有人这样向我解释它](https://github.com/qq449245884/xiaozhi/issues/53)
+
 ### | React 造轮子 系列
 
 1. [React 造轮子系列：Icon 组件思路](https://github.com/qq449245884/xiaozhi/issues/35)
