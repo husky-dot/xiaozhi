@@ -90,6 +90,8 @@
 
 5. [搞懂 Javascript中this 指向及继承原理 ](https://github.com/qq449245884/xiaozhi/issues/55)
 
+6. [JavaScript 的简洁之道 ](https://github.com/qq449245884/xiaozhi/issues/56)
+
 ### | React 造轮子 系列
 
 1. [React 造轮子系列：Icon 组件思路](https://github.com/qq449245884/xiaozhi/issues/35)
