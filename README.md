@@ -114,6 +114,8 @@
 
 1. [React Native 常用的 15 个库 ](https://github.com/qq449245884/xiaozhi/issues/48)
 
+2. [2019年，Flutter 和 React Native 谁主沉浮](https://github.com/qq449245884/xiaozhi/issues/58)
+
 ### | Web 应用安全性 系列
 
 1. [Web 应用安全性: 浏览器是如何工作的](https://github.com/qq449245884/xiaozhi/issues/32)
