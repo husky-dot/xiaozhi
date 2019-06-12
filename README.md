@@ -108,6 +108,8 @@
 
 3. [你要的 React 面试知识点，都在这了 ](https://github.com/qq449245884/xiaozhi/issues/50)
 
+4. [React 新特性讲解及实例(一) ](https://github.com/qq449245884/xiaozhi/issues/57)
+
 ### | ReactNative 系列
 
 1. [React Native 常用的 15 个库 ](https://github.com/qq449245884/xiaozhi/issues/48)
