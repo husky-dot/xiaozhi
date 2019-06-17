@@ -92,6 +92,8 @@
 
 6. [JavaScript 的简洁之道 ](https://github.com/qq449245884/xiaozhi/issues/56)
 
+7. [JavaScript 原型的深入指南](https://github.com/qq449245884/xiaozhi/issues/60)
+
 ### | React 造轮子 系列
 
 1. [React 造轮子系列：Icon 组件思路](https://github.com/qq449245884/xiaozhi/issues/35)
