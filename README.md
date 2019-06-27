@@ -122,6 +122,8 @@
 
 5. [React 新特性 Hooks 讲解及实例(二) ](https://github.com/qq449245884/xiaozhi/issues/63)
 
+6. [React 新特性 Hooks 讲解及实例(三) ](https://github.com/qq449245884/xiaozhi/issues/67)
+
 ### | ReactNative 系列
 
 1. [React Native 常用的 15 个库 ](https://github.com/qq449245884/xiaozhi/issues/48)
