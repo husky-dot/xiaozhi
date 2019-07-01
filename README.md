@@ -104,6 +104,8 @@
 
 11. [需要知道的JS的日期知识，都在这了](https://github.com/qq449245884/xiaozhi/issues/66)
 
+12. [8个有用的JS技巧](https://github.com/qq449245884/xiaozhi/issues/69)
+
 ### | React 造轮子 系列
 
 1. [React 造轮子系列：Icon 组件思路](https://github.com/qq449245884/xiaozhi/issues/35)
