@@ -106,6 +106,8 @@
 
 12. [8个有用的JS技巧](https://github.com/qq449245884/xiaozhi/issues/69)
 
+13. [揭秘变量提升](https://github.com/qq449245884/xiaozhi/issues/70)
+
 ### | React 造轮子 系列
 
 1. [React 造轮子系列：Icon 组件思路](https://github.com/qq449245884/xiaozhi/issues/35)
