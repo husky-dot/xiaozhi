@@ -161,7 +161,7 @@
 
 1. [灵活使用 console 让 js 调试更简单](https://github.com/qq449245884/xiaozhi/issues/45)
 
-
+2. [13个npm 快速使用开发技巧](https://github.com/qq449245884/xiaozhi/issues/71)
 
 ### | ECMAScript 系列
 
