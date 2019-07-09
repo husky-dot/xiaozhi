@@ -110,6 +110,8 @@
 
 14. [如何使用 Set 来提高代码的性能](https://github.com/qq449245884/xiaozhi/issues/72)
 
+15. [Array.slice 8种不同用法](https://github.com/qq449245884/xiaozhi/issues/74)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
