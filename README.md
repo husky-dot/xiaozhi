@@ -173,6 +173,8 @@
 
 2. [13个npm 快速使用开发技巧](https://github.com/qq449245884/xiaozhi/issues/71)
 
+3. [Web应用程序如何创建 PDF ](https://github.com/qq449245884/xiaozhi/issues/76)
+
 ### | ECMAScript 系列
 
 
