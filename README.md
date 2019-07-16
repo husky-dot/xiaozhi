@@ -112,6 +112,8 @@
 
 15. [Array.slice 8种不同用法](https://github.com/qq449245884/xiaozhi/issues/74)
 
+16. [8个问题看你是否真的懂 JS](https://github.com/qq449245884/xiaozhi/issues/77)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
