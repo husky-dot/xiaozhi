@@ -114,6 +114,8 @@
 
 16. [8个问题看你是否真的懂 JS](https://github.com/qq449245884/xiaozhi/issues/77)
 
+17. [Proxy 的巧用](https://github.com/qq449245884/xiaozhi/issues/78)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
