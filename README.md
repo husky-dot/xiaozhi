@@ -116,6 +116,8 @@
 
 17. [Proxy 的巧用](https://github.com/qq449245884/xiaozhi/issues/78)
 
+18. [JS变量生命周期:为什么 let 没有被提升](https://github.com/qq449245884/xiaozhi/issues/79)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
