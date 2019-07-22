@@ -118,6 +118,8 @@
 
 18. [JS变量生命周期:为什么 let 没有被提升](https://github.com/qq449245884/xiaozhi/issues/79)
 
+19. [JS 中有趣的事实](https://github.com/qq449245884/xiaozhi/issues/81)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
