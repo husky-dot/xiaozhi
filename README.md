@@ -181,6 +181,8 @@
 
 3. [Web应用程序如何创建 PDF ](https://github.com/qq449245884/xiaozhi/issues/76)
 
+4 [21 个VSCode 快捷键，让代码更快，更有趣](https://github.com/qq449245884/xiaozhi/issues/80)
+
 ### | ECMAScript 系列
 
 
