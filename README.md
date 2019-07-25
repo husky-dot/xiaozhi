@@ -120,6 +120,8 @@
 
 19. [JS 中有趣的事实](https://github.com/qq449245884/xiaozhi/issues/81)
 
+20. [任务，微任务、队列和时间表](https://github.com/qq449245884/xiaozhi/issues/82)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
