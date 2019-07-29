@@ -124,6 +124,8 @@
 
 21. [JS 的5个不良编码习惯，现在就改掉吧](https://github.com/qq449245884/xiaozhi/issues/83)
 
+22. [JS 最新数据基本类型:BigInt](https://github.com/qq449245884/xiaozhi/issues/84)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
