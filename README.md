@@ -122,6 +122,8 @@
 
 20. [任务，微任务、队列和时间表](https://github.com/qq449245884/xiaozhi/issues/82)
 
+21. [JS 的5个不良编码习惯，现在就改掉吧](https://github.com/qq449245884/xiaozhi/issues/83)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
