@@ -125,7 +125,10 @@
 21. [JS 的5个不良编码习惯，现在就改掉吧](https://github.com/qq449245884/xiaozhi/issues/83)
 
 22. [JS 最新数据基本类型:BigInt](https://github.com/qq449245884/xiaozhi/issues/84)
+
 23. [关于css margin，你需要知道的一切](https://github.com/qq449245884/xiaozhi/issues/85)
+
+24. [处理 JS中 undefined 的 7 个技巧](https://github.com/qq449245884/xiaozhi/issues/86)
 
 ### | Vue 系列
 
