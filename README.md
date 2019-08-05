@@ -130,6 +130,8 @@
 
 24. [处理 JS中 undefined 的 7 个技巧](https://github.com/qq449245884/xiaozhi/issues/86)
 
+25. [什么时候不使用箭头函数](https://github.com/qq449245884/xiaozhi/issues/87)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
