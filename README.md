@@ -62,6 +62,8 @@
 
 23. [JS引擎:它们是如何工作的?从调用堆栈到Promise，需要知道的所有内容](https://github.com/qq449245884/xiaozhi/issues/68)
 
+24. [JS中轻松遍历对象属性的几种方式](https://github.com/qq449245884/xiaozhi/issues/89)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
