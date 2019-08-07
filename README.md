@@ -64,6 +64,8 @@
 
 24. [JS中轻松遍历对象属性的几种方式](https://github.com/qq449245884/xiaozhi/issues/89)
 
+25. [JS中函数式编程基本原理简介](https://github.com/qq449245884/xiaozhi/issues/90)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
@@ -133,6 +135,8 @@
 24. [处理 JS中 undefined 的 7 个技巧](https://github.com/qq449245884/xiaozhi/issues/86)
 
 25. [什么时候不使用箭头函数](https://github.com/qq449245884/xiaozhi/issues/87)
+
+2
 
 ### | Vue 系列
 
