@@ -138,6 +138,8 @@
 
 26. [Promise 中的三兄弟 .all(), .race(), .allSettled()](https://github.com/qq449245884/xiaozhi/issues/93)
 
+27. [JS 中创建自定义排序方法](https://github.com/qq449245884/xiaozhi/issues/94)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
