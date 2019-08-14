@@ -136,7 +136,7 @@
 
 25. [什么时候不使用箭头函数](https://github.com/qq449245884/xiaozhi/issues/87)
 
-2
+26. [Promise 中的三兄弟 .all(), .race(), .allSettled()](https://github.com/qq449245884/xiaozhi/issues/93)
 
 ### | Vue 系列
 
