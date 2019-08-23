@@ -142,6 +142,8 @@
 
 28. [JS 在获取当前月的最后一天遇到的坑](https://github.com/qq449245884/xiaozhi/issues/98)
 
+29. [5个 JS 解构有趣的用途](https://github.com/qq449245884/xiaozhi/issues/99)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
