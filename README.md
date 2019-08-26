@@ -144,6 +144,8 @@
 
 29. [5个 JS 解构有趣的用途](https://github.com/qq449245884/xiaozhi/issues/99)
 
+30. [JS可选链的好处](https://github.com/qq449245884/xiaozhi/issues/100)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
