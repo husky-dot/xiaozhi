@@ -150,6 +150,8 @@
 
 30. [JS可选链的好处](https://github.com/qq449245884/xiaozhi/issues/100)
 
+31. [JS 前20个常用字符串方法及使用方式](https://github.com/qq449245884/xiaozhi/issues/103)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
