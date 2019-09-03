@@ -156,6 +156,10 @@
 
 32. [50 个JS 必须懂的面试题为你助力金九银十](https://github.com/qq449245884/xiaozhi/issues)
 
+33. [JS中，如何提高展开运算符的性能](JS中，如何提高展开运算符的性能)
+
+34. [JS 如何创建、读取和删除cookie](https://github.com/qq449245884/xiaozhi/issues/105)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
