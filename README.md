@@ -154,11 +154,9 @@
 
 31. [JS 前20个常用字符串方法及使用方式](https://github.com/qq449245884/xiaozhi/issues/103)
 
-32. [50 个JS 必须懂的面试题为你助力金九银十](https://github.com/qq449245884/xiaozhi/issues)
+32. [JS中，如何提高展开运算符的性能](JS中，如何提高展开运算符的性能)
 
-33. [JS中，如何提高展开运算符的性能](JS中，如何提高展开运算符的性能)
-
-34. [JS 如何创建、读取和删除cookie](https://github.com/qq449245884/xiaozhi/issues/105)
+33. [JS 如何创建、读取和删除cookie](https://github.com/qq449245884/xiaozhi/issues/105)
 
 ### | Vue 系列
 
@@ -232,6 +230,10 @@
 4 [21 个VSCode 快捷键，让代码更快，更有趣](https://github.com/qq449245884/xiaozhi/issues/80)
 
 5. [21个让React 开发更高效更有趣的工具](https://github.com/qq449245884/xiaozhi/issues/91)
+
+6. [50 个JS 必须懂的面试题为你助力金九银十](https://github.com/qq449245884/xiaozhi/issues)
+
+7. [36 个JS 面试题为你助力金九银十(面试必读)](https://github.com/qq449245884/xiaozhi/issues/108)
 
 ### | ECMAScript 系列
 
