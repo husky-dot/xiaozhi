@@ -74,6 +74,8 @@
 
 29. [深入 JS 对象属性](https://github.com/qq449245884/xiaozhi/issues/109)
 
+30. [JS异常函数之-箭头函数](https://github.com/qq449245884/xiaozhi/issues/110)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
