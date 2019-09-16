@@ -164,6 +164,8 @@
 
 34. [JS 中几种轻松处理'this'指向方式](https://github.com/qq449245884/xiaozhi/issues/111)
 
+35. [息息相关的 JS 同步，异步和事件轮询](https://github.com/qq449245884/xiaozhi/issues/112)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
