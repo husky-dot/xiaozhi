@@ -245,6 +245,8 @@
 
 7. [36 个JS 面试题为你助力金九银十(面试必读)](https://github.com/qq449245884/xiaozhi/issues/108)
 
+8. [通过实现25个数组方法来理解及高效使用数组方法(长文,建议收藏) ](https://github.com/qq449245884/xiaozhi/issues/114)
+
 ### | ECMAScript 系列
 
 
