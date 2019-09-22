@@ -166,6 +166,8 @@
 
 35. [息息相关的 JS 同步，异步和事件轮询](https://github.com/qq449245884/xiaozhi/issues/112)
 
+36. [掌握JS函数中的几种参数形式（函数基础）](https://github.com/qq449245884/xiaozhi/issues/115)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
