@@ -168,6 +168,8 @@
 
 36. [掌握JS函数中的几种参数形式（函数基础）](https://github.com/qq449245884/xiaozhi/issues/115)
 
+37. [简单易懂的 ES6 Iterators 指南和示例 ](https://github.com/qq449245884/xiaozhi/issues/116)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
