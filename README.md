@@ -76,6 +76,8 @@
 
 30. [JS异常函数之-箭头函数](https://github.com/qq449245884/xiaozhi/issues/110)
 
+31. [理清JS中的深拷贝与浅拷贝](https://github.com/qq449245884/xiaozhi/issues/117)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
