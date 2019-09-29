@@ -174,6 +174,8 @@
 
 37. [简单易懂的 ES6 Iterators 指南和示例 ](https://github.com/qq449245884/xiaozhi/issues/116)
 
+38. [20多个小事例带你重温 ES10 新特性](https://github.com/qq449245884/xiaozhi/issues/120)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
