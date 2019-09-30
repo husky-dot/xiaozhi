@@ -176,6 +176,8 @@
 
 38. [20多个小事例带你重温 ES10 新特性](https://github.com/qq449245884/xiaozhi/issues/120)
 
+39. [https://github.com/qq449245884/xiaozhi/issues/121](JS 常用的技巧和几个鲜为人知的特性)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
