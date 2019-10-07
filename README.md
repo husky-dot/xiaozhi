@@ -296,5 +296,9 @@
 ![](https://github.com/qq449245884/xiaozhi/blob/master/images/wx.jpg)
 
 
+**每次整理文章，一般都到2点才睡觉，一周4次左右，挺苦的，还望支持，给点鼓励**
 
+
+
+![](https://user-gold-cdn.xitu.io/2019/9/29/16d7c9e2a5bfb741?w=200&h=260&f=jpeg&s=81141)
 
