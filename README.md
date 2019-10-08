@@ -84,6 +84,8 @@
 
 1. [【JS 口袋书】第 1 和 2 章：JS简介及基础](https://github.com/qq449245884/xiaozhi/issues/122)
 
+2. [【JS 口袋书】第 3 章：JavaScript 函数](https://github.com/qq449245884/xiaozhi/issues/123)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
