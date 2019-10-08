@@ -80,6 +80,10 @@
 
 32. [常见的三个 JS 面试题](https://github.com/qq449245884/xiaozhi/issues/118)
 
+### | JavaScript 口袋书 系列
+
+1. [【JS 口袋书】第 1 和 2 章：JS简介及基础](https://github.com/qq449245884/xiaozhi/issues/122)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
