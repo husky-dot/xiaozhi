@@ -184,7 +184,9 @@
 
 38. [20多个小事例带你重温 ES10 新特性](https://github.com/qq449245884/xiaozhi/issues/120)
 
-39. [https://github.com/qq449245884/xiaozhi/issues/121](JS 常用的技巧和几个鲜为人知的特性)
+39. [JS 常用的技巧和几个鲜为人知的特性](https://github.com/qq449245884/xiaozhi/issues/121)
+
+40. [我对 JS 中相等和全等操作符转化过程一直很迷惑，直到有了这份算法 ](https://github.com/qq449245884/xiaozhi/issues/125)
 
 ### | Vue 系列
 
