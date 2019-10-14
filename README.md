@@ -88,6 +88,8 @@
 
 3. [【JS 口袋书】第 4 章：JS 引擎底层的工作原理](https://github.com/qq449245884/xiaozhi/issues/124)
 
+4. [【JS 口袋书】第 5 章：JS 对象生命周期的秘密](https://github.com/qq449245884/xiaozhi/issues/126)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
