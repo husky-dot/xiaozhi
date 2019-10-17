@@ -92,6 +92,9 @@
 
 5. [【JS 口袋书】第 6 章：JS 中的闭包与模块](https://github.com/qq449245884/xiaozhi/issues/127)
 
+6. [【JS 口袋书】第 7 章：JS 中的类型转换与比较](https://github.com/qq449245884/xiaozhi/issues/128)
+
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
