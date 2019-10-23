@@ -94,6 +94,10 @@
 
 6. [【JS 口袋书】第 7 章：JS 中的类型转换与比较](https://github.com/qq449245884/xiaozhi/issues/128)
 
+7. [【JS 口袋书】第 8 章：以更细的角度来看 JS 中的 this](https://github.com/qq449245884/xiaozhi/issues/131)
+
+8. [【JS 口袋书】第 9 章：使用 JS 操作 HTML 元素](https://github.com/qq449245884/xiaozhi/issues/130)
+
 
 ### | 前端性能优化 系列
 
