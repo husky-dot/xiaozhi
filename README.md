@@ -80,6 +80,8 @@
 
 32. [常见的三个 JS 面试题](https://github.com/qq449245884/xiaozhi/issues/118)
 
+33. [JS对象的 rest/spread 属性指南](https://github.com/qq449245884/xiaozhi/issues/132)
+
 ### | JavaScript 口袋书 系列
 
 1. [【JS 口袋书】第 1 和 2 章：JS简介及基础](https://github.com/qq449245884/xiaozhi/issues/122)
