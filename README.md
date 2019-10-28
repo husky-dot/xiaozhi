@@ -82,6 +82,8 @@
 
 33. [JS对象的 rest/spread 属性指南](https://github.com/qq449245884/xiaozhi/issues/132)
 
+34. [13 个 JS 数组精简技巧，一起来看看](https://github.com/qq449245884/xiaozhi/issues/133
+
 ### | JavaScript 口袋书 系列
 
 1. [【JS 口袋书】第 1 和 2 章：JS简介及基础](https://github.com/qq449245884/xiaozhi/issues/122)
