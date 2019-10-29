@@ -82,7 +82,7 @@
 
 33. [JS对象的 rest/spread 属性指南](https://github.com/qq449245884/xiaozhi/issues/132)
 
-34. [13 个 JS 数组精简技巧，一起来看看](https://github.com/qq449245884/xiaozhi/issues/133
+34. [13 个 JS 数组精简技巧，一起来看看](https://github.com/qq449245884/xiaozhi/issues/133)
 
 35. [重温一下 JS 进阶需要掌握的 13 个概念](https://github.com/qq449245884/xiaozhi/issues/134)
 
