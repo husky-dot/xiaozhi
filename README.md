@@ -84,6 +84,8 @@
 
 34. [13 个 JS 数组精简技巧，一起来看看](https://github.com/qq449245884/xiaozhi/issues/133
 
+35. [重温一下 JS 进阶需要掌握的 13 个概念](https://github.com/qq449245884/xiaozhi/issues/134)
+
 ### | JavaScript 口袋书 系列
 
 1. [【JS 口袋书】第 1 和 2 章：JS简介及基础](https://github.com/qq449245884/xiaozhi/issues/122)
