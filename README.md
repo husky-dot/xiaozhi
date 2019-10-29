@@ -62,29 +62,7 @@
 
 23. [JS引擎:它们是如何工作的?从调用堆栈到Promise，需要知道的所有内容](https://github.com/qq449245884/xiaozhi/issues/68)
 
-24. [JS中轻松遍历对象属性的几种方式](https://github.com/qq449245884/xiaozhi/issues/89)
 
-25. [JS中函数式编程基本原理简介](https://github.com/qq449245884/xiaozhi/issues/90)
-
-26. [ES新提案：双问号操作符](https://github.com/qq449245884/xiaozhi/issues/101)
-
-27. [如何使用useReducer Hook](https://github.com/qq449245884/xiaozhi/issues/102)
-
-28. [JS 如何创建、读取和删除cookie](https://github.com/qq449245884/xiaozhi/issues/105)
-
-29. [深入 JS 对象属性](https://github.com/qq449245884/xiaozhi/issues/109)
-
-30. [JS异常函数之-箭头函数](https://github.com/qq449245884/xiaozhi/issues/110)
-
-31. [理清JS中的深拷贝与浅拷贝](https://github.com/qq449245884/xiaozhi/issues/117)
-
-32. [常见的三个 JS 面试题](https://github.com/qq449245884/xiaozhi/issues/118)
-
-33. [JS对象的 rest/spread 属性指南](https://github.com/qq449245884/xiaozhi/issues/132)
-
-34. [13 个 JS 数组精简技巧，一起来看看](https://github.com/qq449245884/xiaozhi/issues/133)
-
-35. [重温一下 JS 进阶需要掌握的 13 个概念](https://github.com/qq449245884/xiaozhi/issues/134)
 
 ### | JavaScript 口袋书 系列
 
@@ -204,6 +182,30 @@
 39. [JS 常用的技巧和几个鲜为人知的特性](https://github.com/qq449245884/xiaozhi/issues/121)
 
 40. [我对 JS 中相等和全等操作符转化过程一直很迷惑，直到有了这份算法 ](https://github.com/qq449245884/xiaozhi/issues/125)
+
+41. [JS中轻松遍历对象属性的几种方式](https://github.com/qq449245884/xiaozhi/issues/89)
+
+42. [JS中函数式编程基本原理简介](https://github.com/qq449245884/xiaozhi/issues/90)
+
+43. [ES新提案：双问号操作符](https://github.com/qq449245884/xiaozhi/issues/101)
+
+44. [如何使用useReducer Hook](https://github.com/qq449245884/xiaozhi/issues/102)
+
+45. [JS 如何创建、读取和删除cookie](https://github.com/qq449245884/xiaozhi/issues/105)
+
+46. [深入 JS 对象属性](https://github.com/qq449245884/xiaozhi/issues/109)
+
+47. [JS异常函数之-箭头函数](https://github.com/qq449245884/xiaozhi/issues/110)
+
+48. [理清JS中的深拷贝与浅拷贝](https://github.com/qq449245884/xiaozhi/issues/117)
+
+49. [常见的三个 JS 面试题](https://github.com/qq449245884/xiaozhi/issues/118)
+
+50. [JS对象的 rest/spread 属性指南](https://github.com/qq449245884/xiaozhi/issues/132)
+
+51. [13 个 JS 数组精简技巧，一起来看看](https://github.com/qq449245884/xiaozhi/issues/133)
+
+52. [重温一下 JS 进阶需要掌握的 13 个概念](https://github.com/qq449245884/xiaozhi/issues/134)
 
 ### | Vue 系列
 
