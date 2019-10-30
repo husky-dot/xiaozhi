@@ -82,6 +82,7 @@
 
 8. [【JS 口袋书】第 9 章：使用 JS 操作 HTML 元素](https://github.com/qq449245884/xiaozhi/issues/130)
 
+9. [【JS 口袋书】第 10 章：使用异步 JavaScript](https://github.com/qq449245884/xiaozhi/issues/135)
 
 ### | 前端性能优化 系列
 
