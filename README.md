@@ -208,6 +208,8 @@
 
 52. [重温一下 JS 进阶需要掌握的 13 个概念](https://github.com/qq449245884/xiaozhi/issues/134)
 
+53. [通过 41 个 问答方式快速了解学习 Git](https://github.com/qq449245884/xiaozhi/issues/136)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
