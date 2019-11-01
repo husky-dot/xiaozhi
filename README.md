@@ -84,6 +84,8 @@
 
 9. [【JS 口袋书】第 10 章：使用异步 JavaScript](https://github.com/qq449245884/xiaozhi/issues/135)
 
+10. [【JS 口袋书】第 11 章：HTML 表单及 localStorage 的使用](https://github.com/qq449245884/xiaozhi/issues/137)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
