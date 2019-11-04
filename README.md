@@ -216,6 +216,8 @@
 
 53. [通过 41 个 问答方式快速了解学习 Git](https://github.com/qq449245884/xiaozhi/issues/136)
 
+54. [使用 JS 及 React Hook 时需要注意过时闭包的坑(文中有解决方法)](https://github.com/qq449245884/xiaozhi/issues/139)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
