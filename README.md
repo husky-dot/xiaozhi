@@ -86,6 +86,10 @@
 
 10. [【JS 口袋书】第 11 章：HTML 表单及 localStorage 的使用](https://github.com/qq449245884/xiaozhi/issues/137)
 
+### | TypeScript 口袋书 系列
+
+1. [【TS 演化史 -- 破晓】一步一个脚印带你入门 TS](https://github.com/qq449245884/xiaozhi/issues/138)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
