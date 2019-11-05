@@ -280,6 +280,8 @@
 
 4. [不要这样写简历](https://github.com/qq449245884/xiaozhi/issues/51)
 
+5. [35 道咱们必须要清楚的 React 面试题](https://github.com/qq449245884/xiaozhi/issues/140)
+
 
 ### | 前端技巧 系列
 
