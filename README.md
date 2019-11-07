@@ -254,6 +254,8 @@
 
 11. [useContext Hook 是如何工作的 ](https://github.com/qq449245884/xiaozhi/issues/113)
 
+12. [React 中获取数据的 3 种方法：哪种最好？](https://github.com/qq449245884/xiaozhi/issues/142)
+
 ### | ReactNative 系列
 
 1. [React Native 常用的 15 个库 ](https://github.com/qq449245884/xiaozhi/issues/48)
