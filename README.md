@@ -285,6 +285,10 @@
 5. [35 道咱们必须要清楚的 React 面试题](https://github.com/qq449245884/xiaozhi/issues/140)
 
 6. [10 个常问的 JS 面试题](https://github.com/qq449245884/xiaozhi/issues/141)
+
+7. [通过 20 个棘手的ES6面试问题来提高咱们的 JS 技能](https://github.com/qq449245884/xiaozhi/issues/143)
+
+
 ### | 前端技巧 系列
 
 1. [灵活使用 console 让 js 调试更简单](https://github.com/qq449245884/xiaozhi/issues/45)
