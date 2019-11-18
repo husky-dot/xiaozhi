@@ -262,6 +262,8 @@
 
 12. [React 中获取数据的 3 种方法：哪种最好？](https://github.com/qq449245884/xiaozhi/issues/142)
 
+13. [简单易懂的 React useState() Hook 指南（长文建议收藏）](https://github.com/qq449245884/xiaozhi/issues/147)
+
 ### | ReactNative 系列
 
 1. [React Native 常用的 15 个库 ](https://github.com/qq449245884/xiaozhi/issues/48)
