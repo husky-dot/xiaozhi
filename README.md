@@ -94,6 +94,8 @@
 
 3. [【TypeScript 演化史 -- 2】基于控制流的类型分析 和 只读属性](https://github.com/qq449245884/xiaozhi/issues/146)
 
+4. [【TypeScript 演化史 -- 3】标记联合类型 与 never 类型](https://github.com/qq449245884/xiaozhi/issues/148)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
