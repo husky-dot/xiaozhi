@@ -319,6 +319,8 @@
 
 8. [通过实现25个数组方法来理解及高效使用数组方法(长文,建议收藏) ](https://github.com/qq449245884/xiaozhi/issues/114)
 
+9. [27 个提升开发幸福度的 VsCode 插件](https://github.com/qq449245884/xiaozhi/issues/150)
+
 ### | ECMAScript 系列
 
 
