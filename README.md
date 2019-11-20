@@ -230,6 +230,8 @@
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
 
+2. [搞懂并学会运用 Vue 中的无状态组件](https://github.com/qq449245884/xiaozhi/issues/149)
+
 ### | React 造轮子 系列
 
 1. [React 造轮子系列：Icon 组件思路](https://github.com/qq449245884/xiaozhi/issues/35)
