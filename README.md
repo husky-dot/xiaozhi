@@ -96,6 +96,8 @@
 
 4. [【TypeScript 演化史 -- 3】标记联合类型 与 never 类型](https://github.com/qq449245884/xiaozhi/issues/148)
 
+5. [【TypeScript 演化史 -- 4】更多的字面量类型 与 内置类型声明](https://github.com/qq449245884/xiaozhi/issues/151)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
