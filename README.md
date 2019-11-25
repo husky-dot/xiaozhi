@@ -98,6 +98,8 @@
 
 5. [【TypeScript 演化史 -- 4】更多的字面量类型 与 内置类型声明](https://github.com/qq449245884/xiaozhi/issues/151)
 
+6. [【TypeScript 演化史 -- 5】将 async/await 编译到 ES3/ES5 (外部帮助库) ](https://github.com/qq449245884/xiaozhi/issues/152)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
