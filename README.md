@@ -2,6 +2,17 @@
 
 努力整理翻译一系列前端优质文章，今年博客侧重于react、vue、react native 与底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：大迁世界，每周至少二到三篇文章，与你终身学习**
 
+
+---
+
+
+**好消息**：阿里云服务器2019Hi拼团优惠活动正在火热进行中，新老用户均可参与，2核1G云服务器仅需`79元`，1核2G香港服务器仅需`719元/3年`，更多服务器配置及价格请关注：[Hi拼团](https://www.aliyun.com/acts/hi-group-buying?spm=5176.11544616.oped0wsus.5.1f4823e8CKyFVj&userCode=pxuujn3r)，或点此了解[“云上爆款2折特惠活动”](https://www.aliyun.com/acts/limit-buy?spm=5176.11544616.oped0wsus.1.1f4823e8CKyFVj&userCode=pxuujn3r)。同时，建议在购买阿里云相关产品前[先领取阿里云2000元代金券](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pxuujn3r)会更优惠哦。
+
+[腾讯云最近在做活动，百款云产品低至 1 折，可以点击本条内容或者链接进行参与](https://cloud.tencent.com/act/cps/redirect?redirect=1050&cps_key=2fde487a67dd50010d503c5d2120fa91&from=console)
+
+
+---
+
 ## 版权声明：本文为博主翻译的原创文章，未经博主允许不得转载。
 
 * [segmentFault博客(全集)](https://segmentfault.com/u/minnanitkong/articles)
