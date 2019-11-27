@@ -243,6 +243,8 @@
 
 56. [通过事例重温一下常见的 JS 中 15 种数组操作(备忘清单)](https://github.com/qq449245884/xiaozhi/issues/153)
 
+57. [JavaScript 中， 5 种增加代码可读性的最佳实践](https://github.com/qq449245884/xiaozhi/issues/154)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
