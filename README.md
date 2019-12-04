@@ -308,7 +308,7 @@
 
 3. [Web 应用安全性: 使用这些 HTTP 头保护 Web 应用 ](https://github.com/qq449245884/xiaozhi/issues/34)
 
-
+4. [掌握并理解 CORS (跨域资源共享)](https://github.com/qq449245884/xiaozhi/issues/157)
 
 ### | 前端面试 系列
 
