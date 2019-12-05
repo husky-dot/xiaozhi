@@ -118,6 +118,8 @@
 
 7. [【TypeScript 演化史 -- 6】对象扩展运算符和 rest 运算符及 keyof 和查找类型 ](https://github.com/qq449245884/xiaozhi/issues/155)
 
+8. [【TypeScript 演化史 -- 7】映射类型和更好的字面量类型推断](https://github.com/qq449245884/xiaozhi/issues/160)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
