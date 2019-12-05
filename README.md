@@ -4,7 +4,7 @@
 
 
 ---
-
+如果本文对你有所帮助，你需要服务器的可以看看下面的，我可以赚点小费，写文章不易，还望支持。
 
 **好消息**：阿里云服务器2019Hi拼团优惠活动正在火热进行中，新老用户均可参与，2核1G云服务器仅需`79元`，1核2G香港服务器仅需`719元/3年`，更多服务器配置及价格请关注：[Hi拼团](https://www.aliyun.com/acts/hi-group-buying?spm=5176.11544616.oped0wsus.5.1f4823e8CKyFVj&userCode=pxuujn3r)，或点此了解[“云上爆款2折特惠活动”](https://www.aliyun.com/acts/limit-buy?spm=5176.11544616.oped0wsus.1.1f4823e8CKyFVj&userCode=pxuujn3r)。同时，建议在购买阿里云相关产品前[先领取阿里云2000元代金券](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pxuujn3r)会更优惠哦。
 
