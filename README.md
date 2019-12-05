@@ -349,6 +349,8 @@
 
 9. [27 个提升开发幸福度的 VsCode 插件](https://github.com/qq449245884/xiaozhi/issues/150)
 
+10 [webpack4 中的 React 全家桶配置指南，实战](https://github.com/qq449245884/xiaozhi/issues/159)
+
 ### | ECMAScript 系列
 
 
