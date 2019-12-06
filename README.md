@@ -262,6 +262,8 @@
 
 2. [搞懂并学会运用 Vue 中的无状态组件](https://github.com/qq449245884/xiaozhi/issues/149)
 
+3. [20 个新的且值得关注的 Vue 开源项目](https://github.com/qq449245884/xiaozhi/issues/161)
+
 ### | React 造轮子 系列
 
 1. [React 造轮子系列：Icon 组件思路](https://github.com/qq449245884/xiaozhi/issues/35)
