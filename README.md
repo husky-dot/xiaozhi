@@ -256,6 +256,8 @@
 
 58. [使用 JS 来动态操作 css ，你知道几种方法？](https://github.com/qq449245884/xiaozhi/issues/158)
 
+59. [13个需要知道的方法：使用 JavaScript 来操作 DOM](https://github.com/qq449245884/xiaozhi)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
