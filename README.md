@@ -1,17 +1,25 @@
-# 博客目录
-
-努力整理翻译一系列前端优质文章，今年博客侧重于react、vue、react native 与底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：大迁世界，每周至少二到三篇文章，与你终身学习**
-
-
 ---
 如果本文对你有所帮助，你需要服务器的可以看看下面的，我可以赚点小费，写文章不易，还望支持。
 
-**好消息**：阿里云服务器2019Hi拼团优惠活动正在火热进行中，新老用户均可参与，2核1G云服务器仅需`89元`，1核2G香港服务器仅需`719元/3年`，更多服务器配置及价格请关注：[Hi拼团](https://www.aliyun.com/acts/hi-group-buying?spm=5176.11544616.oped0wsus.5.1f4823e8CKyFVj&userCode=pxuujn3r)，或点此了解[“云上爆款2折特惠活动”](https://www.aliyun.com/acts/limit-buy?spm=5176.11544616.oped0wsus.1.1f4823e8CKyFVj&userCode=pxuujn3r)。同时，建议在购买阿里云相关产品前[先领取阿里云2000元代金券](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pxuujn3r)会更优惠哦。
+**[我帮阿里云推广服务器89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)。←点击或者扫码购买↓**](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link)
+
+
+
+
+
 
 [腾讯云最近在做活动，百款云产品低至 1 折，可以点击本条内容或者链接进行参与](https://cloud.tencent.com/act/cps/redirect?redirect=1050&cps_key=2fde487a67dd50010d503c5d2120fa91&from=console)
 
 
 ---
+
+
+# 博客目录
+
+努力整理翻译一系列前端优质文章，今年博客侧重于react、vue、react native 与底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：大迁世界，每周至少二到三篇文章，与你终身学习**
+
+
+
 
 ## 版权声明：本文为博主翻译的原创文章，未经博主允许不得转载。
 
