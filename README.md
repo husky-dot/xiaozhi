@@ -268,6 +268,8 @@
 
 59. [13个需要知道的方法：使用 JavaScript 来操作 DOM](https://github.com/qq449245884/xiaozhi)
 
+60. [34 个今年11月最受欢迎的 JavaScript 库](https://github.com/qq449245884/xiaozhi/issues/165)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
