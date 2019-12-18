@@ -270,6 +270,8 @@
 
 60. [34 个今年11月最受欢迎的 JavaScript 库](https://github.com/qq449245884/xiaozhi/issues/165)
 
+61. [回到基础：什么是DOM及DOM操作？](https://github.com/qq449245884/xiaozhi/issues/166)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
