@@ -272,6 +272,8 @@
 
 61. [回到基础：什么是DOM及DOM操作？](https://github.com/qq449245884/xiaozhi/issues/166)
 
+62. [通过编写简易版本的虚拟DOM，来理解虚拟DOM 的原理](https://github.com/qq449245884/xiaozhi/issues/167)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
