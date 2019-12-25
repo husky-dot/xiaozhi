@@ -119,21 +119,27 @@
 
 ### | TypeScript 口袋书 系列
 
-1. [【TS 演化史 -- 破晓】一步一个脚印带你入门 TS](https://github.com/qq449245884/xiaozhi/issues/138)
+0. [【TS 演化史 -- 破晓】一步一个脚印带你入门 TS](https://github.com/qq449245884/xiaozhi/issues/138)
 
-2. [【TypeScript 演化史 -- 1】non-nullable 的类型](https://github.com/qq449245884/xiaozhi/issues/144)
+1. [【TypeScript 演化史 -- 1】non-nullable 的类型](https://github.com/qq449245884/xiaozhi/issues/144)
 
-3. [【TypeScript 演化史 -- 2】基于控制流的类型分析 和 只读属性](https://github.com/qq449245884/xiaozhi/issues/146)
+2. [【TypeScript 演化史 -- 2】基于控制流的类型分析 和 只读属性](https://github.com/qq449245884/xiaozhi/issues/146)
 
-4. [【TypeScript 演化史 -- 3】标记联合类型 与 never 类型](https://github.com/qq449245884/xiaozhi/issues/148)
+3. [【TypeScript 演化史 -- 3】标记联合类型 与 never 类型](https://github.com/qq449245884/xiaozhi/issues/148)
 
-5. [【TypeScript 演化史 -- 4】更多的字面量类型 与 内置类型声明](https://github.com/qq449245884/xiaozhi/issues/151)
+4. [【TypeScript 演化史 -- 4】更多的字面量类型 与 内置类型声明](https://github.com/qq449245884/xiaozhi/issues/151)
 
-6. [【TypeScript 演化史 -- 5】将 async/await 编译到 ES3/ES5 (外部帮助库) ](https://github.com/qq449245884/xiaozhi/issues/152)
+5. [【TypeScript 演化史 -- 5】将 async/await 编译到 ES3/ES5 (外部帮助库) ](https://github.com/qq449245884/xiaozhi/issues/152)
 
-7. [【TypeScript 演化史 -- 6】对象扩展运算符和 rest 运算符及 keyof 和查找类型 ](https://github.com/qq449245884/xiaozhi/issues/155)
+6. [【TypeScript 演化史 -- 6】对象扩展运算符和 rest 运算符及 keyof 和查找类型 ](https://github.com/qq449245884/xiaozhi/issues/155)
 
-8. [【TypeScript 演化史 -- 7】映射类型和更好的字面量类型推断](https://github.com/qq449245884/xiaozhi/issues/160)
+7. [【TypeScript 演化史 -- 7】映射类型和更好的字面量类型推断](https://github.com/qq449245884/xiaozhi/issues/160)
+
+8. [【TypeScript 演化史 -- 8】字面量类型扩展 和 无类型导入](https://github.com/qq449245884/xiaozhi/issues/171)
+
+9. [【TypeScript 演化史 -- 9】object 类型 和 字符串索引签名类型的点属性 ](https://github.com/qq449245884/xiaozhi/issues/172)
+
+10. [TypeScript 演化史 -- 10】更好的空值检查 和 混合类](https://github.com/qq449245884/xiaozhi/issues/170)
 
 ### | 前端性能优化 系列
 
