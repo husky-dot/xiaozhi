@@ -90,7 +90,10 @@
 
 23. [JS引擎:它们是如何工作的?从调用堆栈到Promise，需要知道的所有内容](https://github.com/qq449245884/xiaozhi/issues/68)
 
+| JavaScript 通过动画演示 系列
 
+
+1. [【动画演示】：变量提升别有一翻风味](https://github.com/qq449245884/xiaozhi/issues)
 
 ### | JavaScript 口袋书 系列
 
