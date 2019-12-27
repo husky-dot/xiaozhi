@@ -287,6 +287,8 @@
 
 63. [JavaScript 中的无穷数(Infinity) ](https://github.com/qq449245884/xiaozhi/issues/168)
 
+64. [你需要知道的 JavaScript 类(class)的这些知识 ](https://github.com/qq449245884/xiaozhi/issues/173)
+
 ### | Vue 系列
 
 1. [vue 2.6 中 slot 的新用法](https://github.com/qq449245884/xiaozhi/issues/73)
