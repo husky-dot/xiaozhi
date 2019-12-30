@@ -95,6 +95,8 @@
 
 1. [【动画演示】：变量提升别有一翻风味](https://github.com/qq449245884/xiaozhi/issues)
 
+2. [【动画演示】：JS 作用域链不在话下](https://github.com/qq449245884/xiaozhi/issues/174)
+
 ### | JavaScript 口袋书 系列
 
 1. [【JS 口袋书】第 1 和 2 章：JS简介及基础](https://github.com/qq449245884/xiaozhi/issues/122)
