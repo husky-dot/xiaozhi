@@ -426,7 +426,7 @@
 如果你想加群讨论，进入公众号[进群交流]，添加好友即可。 
 
 
-![](https://github.com/qq449245884/xiaozhi/blob/master/images/wx.jpg)
+![](https://user-gold-cdn.xitu.io/2020/1/2/16f63921d336de93?w=800&h=400&f=png&s=454354)
 
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡。
