@@ -1,7 +1,7 @@
 [**个人专栏 ES6 深入浅出已上线，深入ES6 ，通过案例学习掌握 ES6 中新特性一些使用技巧及原理，持续更新中，←点击可订阅。**](https://blog.csdn.net/qq449245884/category_9606068.html)
 
 
-[**阿里云服务器 1 折优惠，可以点击本条内容或者链接进行参与](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link)
+[阿里云服务器 1 折优惠，可以点击本条内容或者链接进行参与](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link)
 
 
 [腾讯云最近在做活动，百款云产品低至 1 折，可以点击本条内容或者链接进行参与](https://cloud.tencent.com/act/cps/redirect?redirect=1050&cps_key=2fde487a67dd50010d503c5d2120fa91&from=console)
