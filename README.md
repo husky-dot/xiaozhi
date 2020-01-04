@@ -139,6 +139,8 @@
 
 10. [TypeScript 演化史 -- 10】更好的空值检查 和 混合类](https://github.com/qq449245884/xiaozhi/issues/170)
 
+11. [【TypeScript 演化史 -- 11】泛型参数默认类型 和 新的 --strict 编译选项](https://github.com/qq449245884/xiaozhi/issues/177)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
