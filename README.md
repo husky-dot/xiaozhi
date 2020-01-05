@@ -141,6 +141,8 @@
 
 11. [【TypeScript 演化史 -- 11】泛型参数默认类型 和 新的 --strict 编译选项](https://github.com/qq449245884/xiaozhi/issues/177)
 
+12. [【TypeScript 演化史 -- 12】ES5/ES3 的生成器和迭代支持及 --checkJS选项下 .js 文件中的错误](https://github.com/qq449245884/xiaozhi/issues/178)
+
 ### | 前端性能优化 系列
 
 1. [Web 性能优化： 使用 Webpack 分离数据的正确方法](https://github.com/qq449245884/xiaozhi/issues/25)
