@@ -1,3 +1,9 @@
+
+
+!()[https://segmentfault.com/img/bVbCoUq]
+
+
+
 [**个人专栏 ES6 深入浅出已上线，深入ES6 ，通过案例学习掌握 ES6 中新特性一些使用技巧及原理，持续更新中，←点击可订阅。**](https://blog.csdn.net/qq449245884/category_9606068.html)
 
 
