@@ -1,6 +1,10 @@
 
 
-!()[https://segmentfault.com/img/bVbCoUq]
+<p align="center">
+  <a  href="https://datayi.cn/w/woVLL0rR" >
+<img src="https://segmentfault.com/img/bVbCoUq" width="" style="margin: 0 auto;"/>
+  </a >
+</p>
 
 
 
