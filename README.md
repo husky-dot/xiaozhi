@@ -448,7 +448,7 @@
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
 <p align="center">
     <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
-        <img src="https://segmentfault.com/img/bVbCpkk" width=""/>
+        <img src="https://segmentfault.com/img/bVbCpkI" width=""/>
     </a>
 </p>
 
