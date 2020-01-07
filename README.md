@@ -1,3 +1,7 @@
+我不是什么大牛，我其实想做的就是一个传播者。内容可能过于基础，但对于刚入门的人来说或许是一个窗口，一个解惑之窗。我要先坚持分享20年，大家来一起见证吧。
+
+每年至少会分享不少于`200篇`的优质文章，如果想第一时间获取文章，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
+
 
 
 <p align="center">
@@ -12,7 +16,6 @@
 
 # 博客目录
 
-努力整理翻译一系列前端优质文章，今年博客侧重于react、vue、react native 与底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：大迁世界，每周至少二到三篇文章，与你终身学习**
 
 
 [**个人专栏 ES6 深入浅出已上线，深入ES6 ，通过案例学习掌握 ES6 中新特性一些使用技巧及原理，持续更新中，←点击可订阅。**](https://blog.csdn.net/qq449245884/category_9606068.html)
@@ -431,22 +434,42 @@
 
 <br>
 
-**代码部署后可能存在的BUG没法实时知道，事后为了解决这些BUG，花了大量的时间进行log 调试，这边顺便给大家推荐一个好用的BUG监控工具 [Fundebug](https://www.fundebug.com/?utm_source=xiaozhi)。**
+
+
+<a name="微信"></a>  <a name="公众号"></a>
 
 ## 交流
 
-我是小智，公众号「大迁世界」作者，对前端技术保持学习爱好者。我会经常分享自己所学所看的干货，在进阶的路上，共勉！
 
+加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群交流]** ，添加好友即可。 群里工作日我每天都会以红包的形式来互动交流，朋友圈也会经常分享一些前端视频教程，个个教程都是干货。
 
-如果你想加群讨论，进入公众号[进群交流]，添加好友即可。 
+微信搜索 **[大迁世界]** ，第一时间阅读或者扫描下方的二维码。
 
 
 ![](https://user-gold-cdn.xitu.io/2020/1/2/16f63921d336de93?w=800&h=400&f=png&s=454354)
 
 
-熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡。
+# 赞赏码
+
+熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
+<p align="center">
+    <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
+        <img src="https://user-gold-cdn.xitu.io/2019/9/29/16d7c9e2a5bfb741?w=200&h=260&f=jpeg&s=81141" width=""/>
+    </a>
+</p>
+
+# 服务器购买
+
+我帮阿里云中间件团队的师兄推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)
+
+[**←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+<p align="center">
+    <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
+       <img src="https://segmentfault.com/img/bVbCpj4" width=""/>
+    </a>
+</p>
 
 
+# 鸣谢
 
-![](https://user-gold-cdn.xitu.io/2019/9/29/16d7c9e2a5bfb741?w=200&h=260&f=jpeg&s=81141)
-
+**代码部署后可能存在的BUG没法实时知道，事后为了解决这些BUG，花了大量的时间进行log 调试，这边顺便给大家推荐一个好用的BUG监控工具 [Fundebug](https://www.fundebug.com/?utm_source=xiaozhi)。**
