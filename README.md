@@ -30,17 +30,17 @@
 
 * [视角](#视角)
 * [JavaScript是如何工作的系列](#JavaScript是如何工作的系列)
-
+* [JavaScript 通过动画演示系列](#JavaScript 通过动画演示系列)
 
 <a name="视角"></a> 
 
-#### |视角
+#### 视角
 
 1. [10个技巧，帮咱们更快更好的学习编程](https://github.com/qq449245884/xiaozhi/issues/156)
 
 
 <a name="JavaScript是如何工作的系列"></a> 
-#### |JavaScript是如何工作的系列
+#### JavaScript是如何工作的系列
 
 
 1. [JavaScript是如何工作的：引擎，运行时和调用堆栈的概述](https://github.com/qq449245884/xiaozhi/issues/1)
@@ -89,8 +89,8 @@
 
 23. [JS引擎:它们是如何工作的?从调用堆栈到Promise，需要知道的所有内容](https://github.com/qq449245884/xiaozhi/issues/68)
 
-
-- JavaScript 通过动画演示 系列
+<a name="JavaScript 通过动画演示系列"></a> 
+#### JavaScript 通过动画演示系列
 
 
 1. [【动画演示】：变量提升别有一翻风味](https://github.com/qq449245884/xiaozhi/issues)
@@ -123,7 +123,7 @@
 
 10. [【JS 口袋书】第 11 章：HTML 表单及 localStorage 的使用](https://github.com/qq449245884/xiaozhi/issues/137)
 
-### | TypeScript 口袋书 系列
+#### | TypeScript 口袋书 系列
 
 0. [【TS 演化史 -- 破晓】一步一个脚印带你入门 TS](https://github.com/qq449245884/xiaozhi/issues/138)
 
