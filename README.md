@@ -21,12 +21,6 @@
 [**个人专栏 ES6 深入浅出已上线，深入ES6 ，通过案例学习掌握 ES6 中新特性一些使用技巧及原理，持续更新中，←点击可订阅。**](https://blog.csdn.net/qq449245884/category_9606068.html)
 
 
-[阿里云服务器 1 折优惠，可以点击本条内容或者链接进行参与](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link)
-
-
-[腾讯云最近在做活动，百款云产品低至 1 折，可以点击本条内容或者链接进行参与](https://cloud.tencent.com/act/cps/redirect?redirect=1050&cps_key=2fde487a67dd50010d503c5d2120fa91&from=console)
-
-
 ---
 
 
@@ -462,12 +456,15 @@
 
 我帮阿里云中间件团队的师兄推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)
 
-[**←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+[**←点击或者扫码购买↓**](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link)
 <p align="center">
     <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
        <img src="https://segmentfault.com/img/bVbCpj4" width=""/>
     </a>
 </p>
+
+
+[腾讯云最近在做活动，百款云产品低至 1 折，可以点击本条内容或者链接进行参与](https://cloud.tencent.com/act/cps/redirect?redirect=1050&cps_key=2fde487a67dd50010d503c5d2120fa91&from=console)
 
 
 # 鸣谢
