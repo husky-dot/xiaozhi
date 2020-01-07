@@ -28,8 +28,8 @@
 
 * [视角](#视角)
 * [JavaScript是如何工作的系列](#JavaScript是如何工作的系列)
-* [JavaScript 通过动画演示系列](#JavaScript 通过动画演示系列)
-* [TypeScript 口袋书 系列](#TypeScript 口袋书系列)
+* [JavaScript通过动画演示系列](#JavaScript通过动画演示系列)
+* [TypeScript口袋书 系列](#TypeScript口袋书系列)
 * [前端性能优化系列](#前端性能优化系列)
 * [JavaScript 数据结构 系列](#JavaScript 数据结构 系列)
 * [JavaScript 其它 系列](#JavaScript 其它 系列)
