@@ -14,6 +14,7 @@
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-前端小智-lightgrey.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/59df61ec51882578ce26ee6e/posts"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
+   <a href="https://segmentfault.com/u/minnanitkong/articles"><img src="https://img.shields.io/badge/segmentfault-思否-blue.svg" alt="公众号"></a>
   <a href="https://blog.csdn.net/qq449245884"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
   <a href="https://www.zhihu.com/people/funny-xiaozhi/posts"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   <a href="https://www.toutiao.com/c/user/2399726689/#mid=1583229112254477"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
