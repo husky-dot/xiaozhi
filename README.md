@@ -414,6 +414,10 @@
 
 7. [通过 20 个棘手的ES6面试问题来提高咱们的 JS 技能](https://github.com/qq449245884/xiaozhi/issues/143)
 
+8. [看完这几道 JavaScript 面试题，让你与考官对答如流（上）](https://github.com/qq449245884/xiaozhi/issues/180)
+
+9. [看完这几道 JavaScript 面试题，让你与考官对答如流（中）](https://github.com/qq449245884/xiaozhi/issues/181)
+
 <a name="前端技巧系列"></a> 
 #### 前端技巧 系列
 
