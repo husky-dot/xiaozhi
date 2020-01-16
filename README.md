@@ -418,6 +418,8 @@
 
 9. [看完这几道 JavaScript 面试题，让你与考官对答如流（中）](https://github.com/qq449245884/xiaozhi/issues/181)
 
+10. [https://github.com/qq449245884/xiaozhi/issues/182](看完这几道 JavaScript 面试题，让你与考官对答如流（下）)
+
 <a name="前端技巧系列"></a> 
 #### 前端技巧 系列
 
