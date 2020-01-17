@@ -443,6 +443,8 @@
 
 10 [webpack4 中的 React 全家桶配置指南，实战](https://github.com/qq449245884/xiaozhi/issues/159)
 
+11. [动图演示23个常用 VsCode 快捷键(Window & Mac) ](https://github.com/qq449245884/xiaozhi/issues/183)
+
 <a name="ECMAScript系列"></a> 
 #### ECMAScript 系列
 
