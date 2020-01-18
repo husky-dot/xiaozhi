@@ -379,6 +379,8 @@
 
 13. [简单易懂的 React useState() Hook 指南（长文建议收藏）](https://github.com/qq449245884/xiaozhi/issues/147)
 
+14. [如何解决 Render Props 的回调地狱](https://github.com/qq449245884/xiaozhi/issues/184)
+
 <a name="ReactNative系列"></a> 
 #### ReactNative 系列
 
