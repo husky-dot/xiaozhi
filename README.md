@@ -464,6 +464,7 @@
 3. [8个有用的 CSS 技巧:视差图像，sticky footer 等等](https://github.com/qq449245884/xiaozhi/issues/47)
 4. [使用 CSS Grid Generator来快速使用及学习 Grid 布局 ](https://github.com/qq449245884/xiaozhi/issues/95)
 5. [如何使用SASS编写可重用的CSS](https://github.com/qq449245884/xiaozhi/issues/179)
+6. [能解决 80% 需求的 10个 CSS动画库 ](https://github.com/qq449245884/xiaozhi/issues/185)
 
 <a name="SVG系列"></a> 
 #### SVG 系列
