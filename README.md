@@ -342,6 +342,8 @@
 
 4. [Vue 和递归组件](https://github.com/qq449245884/xiaozhi/issues/162)
 
+5. [Vue 中 强制组件重新渲染的正确方法](https://github.com/qq449245884/xiaozhi/issues/186)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
