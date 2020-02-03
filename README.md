@@ -331,6 +331,8 @@
 
 64. [你需要知道的 JavaScript 类(class)的这些知识 ](https://github.com/qq449245884/xiaozhi/issues/173)
 
+65. [JavaScript中的类型检查有点麻烦 ](https://github.com/qq449245884/xiaozhi/issues/187)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
