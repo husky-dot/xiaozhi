@@ -346,6 +346,8 @@
 
 5. [Vue 中 强制组件重新渲染的正确方法](https://github.com/qq449245884/xiaozhi/issues/186)
 
+6. [如何在Vue中动态添加类名](https://github.com/qq449245884/xiaozhi/issues/188)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
