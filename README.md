@@ -348,6 +348,8 @@
 
 6. [如何在Vue中动态添加类名](https://github.com/qq449245884/xiaozhi/issues/188)
 
+7. [如何在 Vue 中使用 JSX 以及使用它的原因](https://github.com/qq449245884/xiaozhi/issues/189)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
