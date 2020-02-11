@@ -350,6 +350,8 @@
 
 7. [如何在 Vue 中使用 JSX 以及使用它的原因](https://github.com/qq449245884/xiaozhi/issues/189)
 
+8. [Vue 中如何让 input 聚焦？(包含视频讲解)](https://github.com/qq449245884/xiaozhi/issues/190)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
