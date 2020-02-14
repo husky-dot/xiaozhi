@@ -333,6 +333,8 @@
 
 65. [JavaScript中的类型检查有点麻烦 ](https://github.com/qq449245884/xiaozhi/issues/187)
 
+66. [编写高质量箭头函数的5个最佳做法 ](https://github.com/qq449245884/xiaozhi/issues/191)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
