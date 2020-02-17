@@ -335,6 +335,8 @@
 
 66. [编写高质量箭头函数的5个最佳做法 ](https://github.com/qq449245884/xiaozhi/issues/191)
 
+67. [什么是 globalThis，为什么要学会使用它？](https://github.com/qq449245884/xiaozhi/issues/192)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
