@@ -5,12 +5,6 @@
 
 
 <p align="center">
-  <a  href="https://datayi.cn/w/woVLL0rR" >
-<img src="https://segmentfault.com/img/bVbCoUq" width="" style="margin: 0 auto;"/>
-  </a >
-</p>
-
-<p align="center">
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-前端小智-lightgrey.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/59df61ec51882578ce26ee6e/posts"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
