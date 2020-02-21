@@ -350,6 +350,8 @@
 
 8. [Vue 中如何让 input 聚焦？(包含视频讲解)](https://github.com/qq449245884/xiaozhi/issues/190)
 
+9. [如何构建运行良好的Vue组件](https://github.com/qq449245884/xiaozhi/issues/193)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
