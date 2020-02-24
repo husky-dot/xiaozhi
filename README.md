@@ -17,17 +17,6 @@
 
 
 
-
-<a name="目录">💰个人付费专栏</a>
-
-[**个人专栏 ES6 深入浅出已上线，深入ES6 ，通过案例学习掌握 ES6 中新特性一些使用技巧及原理，持续更新中，←点击可订阅。**](https://blog.csdn.net/qq449245884/category_9606068.html)
-
-已更新：
-
-- 1.ES6语感训练 30 题 (温故而知新)
-- 2.换种方式演示 JS 中 `this` 指向及继承，更能通俗易懂。
-- 3.块级作用域绑定(let、const、临时死区及变量的生命周期)
-- 4.深入函数（上）
 - 4.深入函数（下）
 
 ### <a name="目录">系列目录</a>
@@ -351,6 +340,8 @@
 8. [Vue 中如何让 input 聚焦？(包含视频讲解)](https://github.com/qq449245884/xiaozhi/issues/190)
 
 9. [如何构建运行良好的Vue组件](https://github.com/qq449245884/xiaozhi/issues/193)
+
+10. [高级 Vue 技巧：控制父类的 slot](https://github.com/qq449245884/xiaozhi/issues/194)
 
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
