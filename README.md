@@ -320,6 +320,8 @@
 
 67. [什么是 globalThis，为什么要学会使用它？](https://github.com/qq449245884/xiaozhi/issues/192)
 
+68. [何时使用 Map 来代替普通的 JS 对象](https://github.com/qq449245884/xiaozhi/issues/195)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
