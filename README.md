@@ -342,6 +342,8 @@
 
 10. [高级 Vue 技巧：控制父类的 slot](https://github.com/qq449245884/xiaozhi/issues/194)
 
+11. [Vue 中 render 函数有点意思](https://github.com/qq449245884/xiaozhi/issues/196)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
