@@ -344,6 +344,8 @@
 
 11. [Vue 中 render 函数有点意思](https://github.com/qq449245884/xiaozhi/issues/196)
 
+12. [Vue 中的 Props 与 Data 细微差别，你知道吗？](https://github.com/qq449245884/xiaozhi/issues/197)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
