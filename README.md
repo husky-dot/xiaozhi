@@ -319,6 +319,8 @@
 
 68. [何时使用 Map 来代替普通的 JS 对象](https://github.com/qq449245884/xiaozhi/issues/195)
 
+69. [记好这 24 个 ES6 方法，用来解决实际开发的 JS 问题](https://github.com/qq449245884/xiaozhi/issues/198)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
