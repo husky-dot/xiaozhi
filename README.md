@@ -4,6 +4,9 @@
 
 
 
+我帮阿里云中间件团队的师兄推广服务器，比较便宜：一年 74 ，三年 223，119一年 香港(免备案) ，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)
+
+
 <p align="center">
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-前端小智-lightgrey.svg" alt="公众号"></a>
@@ -13,6 +16,10 @@
   <a href="https://www.zhihu.com/people/funny-xiaozhi/posts"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   <a href="https://www.toutiao.com/c/user/2399726689/#mid=1583229112254477"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
 </p>
+
+我帮阿里云中间件团队的师兄推广服务器，比较便宜：一年 74 ，三年 223, 119一年 香港(免备案) ，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈.
+
+[**←点击或者扫码购买↓**](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link)
 
 
 
