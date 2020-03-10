@@ -357,6 +357,8 @@
 
 14. [一个 Vue 模板可以有多个根节点(Fragments)? ](https://github.com/qq449245884/xiaozhi/issues/200)
 
+15. [2020 年，Vue 受欢迎程度是否会超过 React？](https://github.com/qq449245884/xiaozhi/issues/201)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
