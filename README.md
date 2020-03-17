@@ -363,6 +363,8 @@
 
 16. [12 种使用 Vue 的最佳做法](https://github.com/qq449245884/xiaozhi/issues/203)
 
+17. [如何修复Vue中的 “this is undefined” 问题 ](https://github.com/qq449245884/xiaozhi/issues/204)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
