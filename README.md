@@ -328,6 +328,8 @@
 
 70. [JavaScript内部原理：浏览器的内幕](https://github.com/qq449245884/xiaozhi/issues/202)
 
+71. [知道 JavaScript 中的错误对象有哪些类型吗？](https://github.com/qq449245884/xiaozhi/issues/207)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
