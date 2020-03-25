@@ -330,6 +330,8 @@
 
 71. [知道 JavaScript 中的错误对象有哪些类型吗？](https://github.com/qq449245884/xiaozhi/issues/207)
 
+72. [这5个 console.log() 技巧帮你提高工作效率 ](https://github.com/qq449245884/xiaozhi/issues/209)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
