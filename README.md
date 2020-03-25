@@ -15,9 +15,16 @@
 </p>
 
 
-我帮阿里云中间件团队的师兄推广服务器，比较便宜：一年 74 ，三年 223, 119一年 香港(免备案) ，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈.
+大家都说简历没项目写，我帮阿里云团队的师兄推广服务器，比较便宜：一年 74 ，三年 223, 119一年 香港(免备案) ，比学生9.9每月还便宜，买来送自己，送女朋友，买了搭建个项目给面试官看也香，还可以熟悉技术栈.
 
 [**←点击或者扫码购买↓**](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link)
+
+
+<p align="center">
+    <a href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" target="_blank">
+        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/lib/emoji-pngs/ailiyuan.png" width="100"/>
+    </a>
+</p>
 
 
 
@@ -546,6 +553,15 @@
 <a  href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
 <a  href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
 <a  href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
+
+
+
+<p align="center">
+    <a href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" target="_blank">
+        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/lib/emoji-pngs/ailiyuan.png" width="100"/>
+    </a>
+</p>
+
 
 [腾讯云最近在做活动，百款云产品低至 1 折，可以点击本条内容或者链接进行参与](https://cloud.tencent.com/act/cps/redirect?redirect=1050&cps_key=2fde487a67dd50010d503c5d2120fa91&from=console)
 
