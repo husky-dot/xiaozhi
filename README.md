@@ -378,6 +378,8 @@
 
 18. [Vue Template 修饰符和简写，让开发效率有所提高](https://github.com/qq449245884/xiaozhi/issues/205)
 
+19. [Vue中 props 这些知识点，可以在来复习一下！](https://github.com/qq449245884/xiaozhi/issues/211)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
