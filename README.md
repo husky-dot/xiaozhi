@@ -382,6 +382,8 @@
 
 19. [Vue中 props 这些知识点，可以在来复习一下！](https://github.com/qq449245884/xiaozhi/issues/211)
 
+20. [这 10 个技巧让你成为一个更好的 Vue 开发者](https://github.com/qq449245884/xiaozhi/issues/213)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
