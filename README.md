@@ -339,6 +339,8 @@
 
 72. [这5个 console.log() 技巧帮你提高工作效率 ](https://github.com/qq449245884/xiaozhi/issues/209)
 
+73. [这 10 个片段，有助于你理解 ES 中的 Promise](https://github.com/qq449245884/xiaozhi/issues/212)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
