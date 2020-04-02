@@ -341,6 +341,8 @@
 
 73. [这 10 个片段，有助于你理解 ES 中的 Promise](https://github.com/qq449245884/xiaozhi/issues/212)
 
+74. [什么 JS 中的对象字面量很酷](https://github.com/qq449245884/xiaozhi/issues/214)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
