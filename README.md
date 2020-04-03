@@ -343,6 +343,8 @@
 
 74. [什么 JS 中的对象字面量很酷](https://github.com/qq449245884/xiaozhi/issues/214)
 
+75. [知道临时死区你才能更好的使用 JS 变量](https://github.com/qq449245884/xiaozhi/issues/215)
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
