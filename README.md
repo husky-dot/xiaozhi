@@ -527,7 +527,7 @@
 
 20. [这 10 个技巧让你成为一个更好的 Vue 开发者](https://github.com/qq449245884/xiaozhi/issues/213)
 
-
+21. [将多个属性传递给 Vue 组件的几种方式 ](https://github.com/qq449245884/xiaozhi/issues/218)
 
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
