@@ -488,6 +488,8 @@
 
 78. [适合前端开发 和UI 设计的20多个最佳 ICON 库](https://github.com/qq449245884/xiaozhi/issues/220)
 
+
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
@@ -638,6 +640,8 @@
 10 [webpack4 中的 React 全家桶配置指南，实战](https://github.com/qq449245884/xiaozhi/issues/159)
 
 11. [动图演示23个常用 VsCode 快捷键(Window & Mac) ](https://github.com/qq449245884/xiaozhi/issues/183)
+
+12. [10个必须知道的Chrome开发工具和技巧](https://github.com/qq449245884/xiaozhi/issues/221)
 
 <a name="ECMAScript系列"></a> 
 #### ECMAScript 系列
