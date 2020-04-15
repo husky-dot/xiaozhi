@@ -488,6 +488,8 @@
 
 78. [适合前端开发 和UI 设计的20多个最佳 ICON 库](https://github.com/qq449245884/xiaozhi/issues/220)
 
+79. [这些优化技巧可以避免我们在 JS 中过多的使用 IF 语句](https://github.com/qq449245884/xiaozhi/issues/222)
+
 
 
 <a name="Vue系列"></a> 
