@@ -490,6 +490,7 @@
 
 79. [这些优化技巧可以避免我们在 JS 中过多的使用 IF 语句](https://github.com/qq449245884/xiaozhi/issues/222)
 
+80. [这三个精巧且很棒 JS 库，值得你亲手试试](https://github.com/qq449245884/xiaozhi/issues/223)
 
 
 <a name="Vue系列"></a> 
