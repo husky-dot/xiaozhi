@@ -493,6 +493,8 @@
 80. [这三个精巧且很棒 JS 库，值得你亲手试试](https://github.com/qq449245884/xiaozhi/issues/223)
 
 
+
+
 <a name="Vue系列"></a> 
 #### Vue 系列
 
@@ -663,6 +665,7 @@
 4. [使用 CSS Grid Generator来快速使用及学习 Grid 布局 ](https://github.com/qq449245884/xiaozhi/issues/95)
 5. [如何使用SASS编写可重用的CSS](https://github.com/qq449245884/xiaozhi/issues/179)
 6. [能解决 80% 需求的 10个 CSS动画库 ](https://github.com/qq449245884/xiaozhi/issues/185)
+7. [web 图像技术：前端引入图片的各种方式及其优缺点](https://github.com/qq449245884/xiaozhi/issues/224)
 
 <a name="SVG系列"></a> 
 #### SVG 系列
