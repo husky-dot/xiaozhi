@@ -492,7 +492,7 @@
 
 80. [这三个精巧且很棒 JS 库，值得你亲手试试](https://github.com/qq449245884/xiaozhi/issues/223)
 
-
+81. [5个很棒的 React.js 库，值得你亲手试试！](https://github.com/qq449245884/xiaozhi/issues/225)
 
 
 <a name="Vue系列"></a> 
