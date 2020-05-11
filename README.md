@@ -494,6 +494,8 @@
 
 81. [5个很棒的 React.js 库，值得你亲手试试！](https://github.com/qq449245884/xiaozhi/issues/225)
 
+82. [何写出优雅的 JS 代码，变量和函数的正确写法 ](https://github.com/qq449245884/xiaozhi/issues/227)
+
 
 <a name="Vue系列"></a> 
 #### Vue 系列
