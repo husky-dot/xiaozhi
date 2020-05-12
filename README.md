@@ -542,6 +542,8 @@
 
 21. [将多个属性传递给 Vue 组件的几种方式 ](https://github.com/qq449245884/xiaozhi/issues/218)
 
+22. [Vue 中，如何将函数作为 props 传递给组件](https://github.com/qq449245884/xiaozhi/issues/228)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
