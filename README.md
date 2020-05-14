@@ -671,6 +671,7 @@
 6. [能解决 80% 需求的 10个 CSS动画库 ](https://github.com/qq449245884/xiaozhi/issues/185)
 7. [web 图像技术：前端引入图片的各种方式及其优缺点](https://github.com/qq449245884/xiaozhi/issues/224)
 8. [CSS 中你需要知道 auto 的一切！](https://github.com/qq449245884/xiaozhi/issues/226)
+9. [Web 隐藏技术：几中隐藏 Web 中的元素方法及优缺点](https://github.com/qq449245884/xiaozhi/issues/229)
 
 <a name="SVG系列"></a> 
 #### SVG 系列
