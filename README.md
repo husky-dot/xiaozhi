@@ -672,6 +672,7 @@
 7. [web 图像技术：前端引入图片的各种方式及其优缺点](https://github.com/qq449245884/xiaozhi/issues/224)
 8. [CSS 中你需要知道 auto 的一切！](https://github.com/qq449245884/xiaozhi/issues/226)
 9. [Web 隐藏技术：几中隐藏 Web 中的元素方法及优缺点](https://github.com/qq449245884/xiaozhi/issues/229)
+10. [我发现了7个关于 CSS backgroundImage 好用的技巧](https://github.com/qq449245884/xiaozhi/issues/230)
 
 <a name="SVG系列"></a> 
 #### SVG 系列
