@@ -673,6 +673,7 @@
 8. [CSS 中你需要知道 auto 的一切！](https://github.com/qq449245884/xiaozhi/issues/226)
 9. [Web 隐藏技术：几中隐藏 Web 中的元素方法及优缺点](https://github.com/qq449245884/xiaozhi/issues/229)
 10. [我发现了7个关于 CSS backgroundImage 好用的技巧](https://github.com/qq449245884/xiaozhi/issues/230)
+11. [CSS中的混合模式，制作高级特效的必备技巧 ](https://github.com/qq449245884/xiaozhi/issues/231)
 
 <a name="SVG系列"></a> 
 #### SVG 系列
