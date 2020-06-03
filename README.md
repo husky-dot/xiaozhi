@@ -548,6 +548,8 @@
 
 23. [如何使用Vue中的嵌套插槽(包括作用域插槽)](https://github.com/qq449245884/xiaozhi/issues/232)
 
+24. [在Vue中创建可重用的 Transition ](https://github.com/qq449245884/xiaozhi/issues/235)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
