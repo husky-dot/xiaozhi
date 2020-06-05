@@ -681,6 +681,7 @@
 10. [我发现了7个关于 CSS backgroundImage 好用的技巧](https://github.com/qq449245884/xiaozhi/issues/230)
 11. [CSS中的混合模式，制作高级特效的必备技巧 ](https://github.com/qq449245884/xiaozhi/issues/231)
 12. [CSS 中 关于 Overflow ，你需要了解的这些知识点](https://github.com/qq449245884/xiaozhi/issues/233)
+13. [这些 CSS 伪类，你可能还不知道，可以用起来了！](https://github.com/qq449245884/xiaozhi/issues/236)
 
 <a name="SVG系列"></a> 
 #### SVG 系列
