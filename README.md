@@ -658,6 +658,8 @@
 
 12. [10个必须知道的Chrome开发工具和技巧](https://github.com/qq449245884/xiaozhi/issues/221)
 
+13. [前端！7个快速发现 bug 神仙调试工具](https://github.com/qq449245884/xiaozhi/issues/238)
+
 <a name="ECMAScript系列"></a> 
 #### ECMAScript 系列
 
