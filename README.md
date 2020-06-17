@@ -660,6 +660,8 @@
 
 13. [前端！7个快速发现 bug 神仙调试工具](https://github.com/qq449245884/xiaozhi/issues/238)
 
+14. [周末学习发现了 10 个好用JavaScript图像处理库](https://github.com/qq449245884/xiaozhi/issues/239)
+
 <a name="ECMAScript系列"></a> 
 #### ECMAScript 系列
 
