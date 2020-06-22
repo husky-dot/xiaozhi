@@ -498,6 +498,8 @@
 
 83. [JavaScript重构技巧-让函数简单明了](https://github.com/qq449245884/xiaozhi/issues/234)
 
+84. [JS执行上下文的两个阶段做了些啥？](https://github.com/qq449245884/xiaozhi/issues/240)
+
 
 <a name="Vue系列"></a> 
 #### Vue 系列
