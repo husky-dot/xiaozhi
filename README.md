@@ -500,6 +500,8 @@
 
 84. [JS执行上下文的两个阶段做了些啥？](https://github.com/qq449245884/xiaozhi/issues/240)
 
+85. [详解 ES10 中 Object.fromEntries() 的缘起 ](https://github.com/qq449245884/xiaozhi/issues/241)
+
 
 <a name="Vue系列"></a> 
 #### Vue 系列
