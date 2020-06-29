@@ -502,6 +502,8 @@
 
 85. [详解 ES10 中 Object.fromEntries() 的缘起 ](https://github.com/qq449245884/xiaozhi/issues/241)
 
+86. [周末在学习正则，学习过程中发现这 6 个方便的正则表达式 ](https://github.com/qq449245884/xiaozhi/issues/242)
+
 
 <a name="Vue系列"></a> 
 #### Vue 系列
