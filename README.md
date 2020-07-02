@@ -504,6 +504,8 @@
 
 86. [周末在学习正则，学习过程中发现这 6 个方便的正则表达式 ](https://github.com/qq449245884/xiaozhi/issues/242)
 
+87. [周末学会了 10个超级实用 Javascript 技巧!](https://github.com/qq449245884/xiaozhi/issues/244)
+
 
 <a name="Vue系列"></a> 
 #### Vue 系列
