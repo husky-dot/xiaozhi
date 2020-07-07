@@ -558,6 +558,8 @@
 
 24. [在Vue中创建可重用的 Transition ](https://github.com/qq449245884/xiaozhi/issues/235)
 
+28. [很多人不知道可以使用这种 key 的方式来对 Vue 组件时行重新渲染！](https://github.com/qq449245884/xiaozhi/issues/246)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
