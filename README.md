@@ -506,6 +506,8 @@
 
 87. [周末学会了 10个超级实用 Javascript 技巧!](https://github.com/qq449245884/xiaozhi/issues/244)
 
+88. [这份 window.location 备忘单，让你更有条理解决地址路径问题！](https://github.com/qq449245884/xiaozhi/issues/247)
+
 
 <a name="Vue系列"></a> 
 #### Vue 系列
