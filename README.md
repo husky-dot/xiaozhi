@@ -375,6 +375,8 @@
 
 88. [这份 window.location 备忘单，让你更有条理解决地址路径问题！](https://github.com/qq449245884/xiaozhi/issues/247)
 
+89. [ES6 中 module 备忘清单，你可能知道 module 还可以这样用！](https://github.com/qq449245884/xiaozhi/issues/248)
+
 
 <a name="Vue系列"></a> 
 #### Vue 系列
