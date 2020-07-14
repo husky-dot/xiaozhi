@@ -379,6 +379,8 @@
 
 90. [使用内联的 CSS 变量技巧，提高灵巧布局效率！](https://github.com/qq449245884/xiaozhi)
 
+91. [很多人不知道 Vue 中的组件就是一个函数！](https://github.com/qq449245884/xiaozhi/issues/250)
+
 
 <a name="Vue系列"></a> 
 #### Vue 系列
