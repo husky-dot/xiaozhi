@@ -381,6 +381,8 @@
 
 91. [很多人不知道 Vue 中的组件就是一个函数！](https://github.com/qq449245884/xiaozhi/issues/250)
 
+92. [我不知道还可以用 JS 做的 6 件事](https://github.com/qq449245884/xiaozhi/issues/252)
+
 
 <a name="Vue系列"></a> 
 #### Vue 系列
