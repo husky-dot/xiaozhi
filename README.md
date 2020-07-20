@@ -582,6 +582,8 @@
 
 17. [Web 技术：CSS最小和最大(宽度/高度)知识点及优缺点](https://github.com/qq449245884/xiaozhi/issues/251)
 
+18. [历时4个多月，学习了这 66 个CSS 特效](https://github.com/qq449245884/xiaozhi/issues/253)
+
 <a name="SVG系列"></a> 
 #### SVG 系列
 
