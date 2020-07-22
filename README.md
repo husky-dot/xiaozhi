@@ -437,6 +437,8 @@
 
 28. [很多人不知道可以使用这种 key 的方式来对 Vue 组件时行重新渲染！](https://github.com/qq449245884/xiaozhi/issues/246)
 
+29. [对于组件的可重用性，大佬给出来6个级别的见解，一起过目一下！](https://github.com/qq449245884/xiaozhi/issues/254)
+
 <a name="React造轮子系列"></a> 
 #### React 造轮子 系列
 
