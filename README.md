@@ -592,6 +592,8 @@
 
 21. [一文学会使用 CSS 中的 min(), max(), clamp() 以及它们的使用场景](https://github.com/qq449245884/xiaozhi/issues/258)
 
+22. [提升布局能力！理解 CSS 的多种背景及使用场景和技巧](https://github.com/qq449245884/xiaozhi/issues/259)
+
 <a name="SVG系列"></a> 
 #### SVG 系列
 
