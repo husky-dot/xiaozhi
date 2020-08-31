@@ -111,6 +111,8 @@
 
 23. [JS引擎:它们是如何工作的?从调用堆栈到Promise，需要知道的所有内容](https://github.com/qq449245884/xiaozhi/issues/68)
 
+24. [22+ 高频实用的 JavaScript 片段 （2020年）](https://github.com/qq449245884/xiaozhi/issues/261)
+
 <a name="JavaScript通过动画演示系列"></a> 
 #### JavaScript 通过动画演示系列
 
