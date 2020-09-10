@@ -391,6 +391,8 @@
 
 95. [初学者应该看的JavaScript Promise 完整指南](https://github.com/qq449245884/xiaozhi/issues/264)
 
+96. [这 6 点知识让我对 JavaScript 的对象有了更进一步的了解](https://github.com/qq449245884/xiaozhi/issues/265)
+
 
 <a name="Vue系列"></a> 
 
