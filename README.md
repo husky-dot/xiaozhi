@@ -19,6 +19,10 @@
 
 [**←点击或者扫码购买↓**](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link)
 
+[【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年99元](https://curl.qcloud.com/BHuljiwH)
+
+[【腾讯云】境外1核2G服务器低至2折，半价续费券限量免费领取！](https://curl.qcloud.com/PR4g2cGQ)
+
 
 <p align="center">
     <a href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" target="_blank">
@@ -26,9 +30,11 @@
     </a>
 </p>
 
-### 《CSS创意特效》已开通，目前在更新中
+### 《CSS创意特效》
 
-**专栏地址**：https://blog.csdn.net/qq449245884/category_9873715.html?utm_source=ffzl_BWzd
+第一季(66个前端特效)：https://blog.csdn.net/qq449245884/category_10212382.html?utm_source=ffzl_BWzd
+
+第二秀(等级更新中)：https://blog.csdn.net/qq449245884/category_9873715.html
 
 
 
