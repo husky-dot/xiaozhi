@@ -393,6 +393,8 @@
 
 96. [这 6 点知识让我对 JavaScript 的对象有了更进一步的了解](https://github.com/qq449245884/xiaozhi/issues/265)
 
+97. [JavaScript 交换值的奇思妙想](https://github.com/qq449245884/xiaozhi/issues/267)
+
 
 <a name="Vue系列"></a> 
 
