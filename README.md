@@ -36,6 +36,31 @@
 * [UI设计 系列](#UI设计系列)
 
 
+
+<a name="JavaScript口袋书系列"></a> 
+#### JavaScript 口袋书 系列
+
+1. [【JS 口袋书】第 1 和 2 章：JS简介及基础](https://mp.weixin.qq.com/s/047tnzfIiHycWh84nk9dEw)
+
+2. [【JS 口袋书】第 3 章：JavaScript 函数](https://mp.weixin.qq.com/s/4JmQTcvXBew8Eiz8hkYsWQ)
+
+3. [【JS 口袋书】第 4 章：JS 引擎底层的工作原理](https://mp.weixin.qq.com/s/smCPs34nTI6tzC9OFQf1JA)
+
+4. [【JS 口袋书】第 5 章：JS 对象生命周期的秘密](https://mp.weixin.qq.com/s/4fGs5sA4rEzmk1p-uzJycg)
+
+5. [【JS 口袋书】第 6 章：JS 中的闭包与模块](https://mp.weixin.qq.com/s/es6NxSmYnzf8jEF2ZxVbEg)
+
+6. [【JS 口袋书】第 7 章：JS 中的类型转换与比较](https://mp.weixin.qq.com/s/AFdCOv2gb_lSyojuY_NDtg)
+
+7. [【JS 口袋书】第 8 章：以更细的角度来看 JS 中的 this](https://mp.weixin.qq.com/s/2S8yjZ9GGQYOGjQevjzSsQ)
+
+8. [【JS 口袋书】第 9 章：使用 JS 操作 HTML 元素](https://mp.weixin.qq.com/s/ra3A9Js9LPYc53OHM0Xkng)
+
+9. [【JS 口袋书】第 10 章：使用异步 JavaScript](https://mp.weixin.qq.com/s/csWS-Mo1KwlARcQTp8f2XQ)
+
+10. [【JS 口袋书】第 11 章：HTML 表单及 localStorage 的使用](https://mp.weixin.qq.com/s/g_o00ott_RqjXdc2sG9yDg)
+
+
 <a name="视角"></a> 
 
 #### 视角
@@ -95,6 +120,7 @@
 
 24. [22+ 高频实用的 JavaScript 片段 （2020年）](https://github.com/qq449245884/xiaozhi/issues/261)
 
+
 <a name="JavaScript通过动画演示系列"></a> 
 #### JavaScript 通过动画演示系列
 
@@ -107,28 +133,7 @@
 
 4. [【动画演示】JavaScript 引擎运行原理](https://github.com/qq449245884/xiaozhi/issues/176)
 
-<a name="JavaScript口袋书系列"></a> 
-#### JavaScript 口袋书 系列
 
-1. [【JS 口袋书】第 1 和 2 章：JS简介及基础](https://github.com/qq449245884/xiaozhi/issues/122)
-
-2. [【JS 口袋书】第 3 章：JavaScript 函数](https://github.com/qq449245884/xiaozhi/issues/123)
-
-3. [【JS 口袋书】第 4 章：JS 引擎底层的工作原理](https://github.com/qq449245884/xiaozhi/issues/124)
-
-4. [【JS 口袋书】第 5 章：JS 对象生命周期的秘密](https://github.com/qq449245884/xiaozhi/issues/126)
-
-5. [【JS 口袋书】第 6 章：JS 中的闭包与模块](https://github.com/qq449245884/xiaozhi/issues/127)
-
-6. [【JS 口袋书】第 7 章：JS 中的类型转换与比较](https://github.com/qq449245884/xiaozhi/issues/128)
-
-7. [【JS 口袋书】第 8 章：以更细的角度来看 JS 中的 this](https://github.com/qq449245884/xiaozhi/issues/131)
-
-8. [【JS 口袋书】第 9 章：使用 JS 操作 HTML 元素](https://github.com/qq449245884/xiaozhi/issues/130)
-
-9. [【JS 口袋书】第 10 章：使用异步 JavaScript](https://github.com/qq449245884/xiaozhi/issues/135)
-
-10. [【JS 口袋书】第 11 章：HTML 表单及 localStorage 的使用](https://github.com/qq449245884/xiaozhi/issues/137)
 
 <a name="TypeScript口袋书系列"></a> 
 #### TypeScript 口袋书系列
