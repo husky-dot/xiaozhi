@@ -254,22 +254,16 @@
 # 项目经验&服务器
 大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/qq449245884/xiaozhi/issues/210)。
 
-我和阿里云合作服务器，折扣价比较便宜：**89/年，223/3年**，比学生9.9每月还便宜，买了搭建个项目，熟悉技术栈比较香（老用户用家人账号买就好了，我用我妈的)**推荐买三年的划算点，点击图片购买即可**
-
-<p align="center">
-  
-</p>
-<a  href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
-<a  href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
-<a  href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
-
+**已结束** 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
 
 
 <p align="center">
-    <a href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r&share_source=copy_link" target="_blank">
+    <a href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r" target="_blank">
         <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/lib/emoji-pngs/ailiyuan.png" width="100"/>
     </a>
 </p>
+
+买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r)
 
 
 [腾讯云最近在做活动，百款云产品低至 1 折，可以点击本条内容或者链接进行参与](https://cloud.tencent.com/act/cps/redirect?redirect=1050&cps_key=2fde487a67dd50010d503c5d2120fa91&from=console)
