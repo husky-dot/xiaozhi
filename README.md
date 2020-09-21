@@ -259,7 +259,7 @@
 
 <p align="center">
     <a href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r" target="_blank">
-        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/lib/emoji-pngs/ailiyuan.png" width="100"/>
+        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/ali.jpg" width="100"/>
     </a>
 </p>
 
