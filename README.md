@@ -28,6 +28,8 @@
 
 - 福利
   - [100本最棒前端开发图书](http://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=100007725&idx=1&sn=db3a5857d5b71a5b24355147ab7b8a32&chksm=695cf3785e2b7a6e49c1ed5ba4bb010836c038f54feca61b8bd2a3c21181b0295525b696a052#rd)
+  - [求职招聘季奉上多套精美收费简历模板--总有一套适合你](http://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=100007740&idx=1&sn=1e8dbef11376ec554c56642f3a8fa95e&chksm=695cf3695e2b7a7f6872aa0f5acb2599d596c1c103ee22598de8da31388ab013f6516a2da504#rd)
+
 
 - 面试
   - [35 道咱们必须要清楚的 React 面试题](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247485654&idx=1&sn=d45645ae678a199d6daf4a85c94f3948&chksm=e95ce483de2b6d9573eb5dbf6a7c5df3a96635148f0194e185b39a2ee156fec3815fd6f71233&token=450925916&lang=zh_CN#rd)
