@@ -27,7 +27,7 @@
 # 目录(善用Ctrl+F)
 
 - 福利
-  - [100本最棒前端开发图书](https://mp.weixin.qq.com/cgi-bin/appmsg?t=media/appmsg_edit&action=edit&type=10&appmsgid=100007725&isMul=1&isSend=0&token=702149694&lang=zh_CN)
+  - [100本最棒前端开发图书](http://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=100007725&idx=1&sn=db3a5857d5b71a5b24355147ab7b8a32&chksm=695cf3785e2b7a6e49c1ed5ba4bb010836c038f54feca61b8bd2a3c21181b0295525b696a052#rd)
 
 - 面试
   - [35 道咱们必须要清楚的 React 面试题](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247485654&idx=1&sn=d45645ae678a199d6daf4a85c94f3948&chksm=e95ce483de2b6d9573eb5dbf6a7c5df3a96635148f0194e185b39a2ee156fec3815fd6f71233&token=450925916&lang=zh_CN#rd)
