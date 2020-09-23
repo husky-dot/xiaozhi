@@ -93,6 +93,9 @@
 
 
 - JavaScript 深入浅出
+
+  - [JavaScript 中的函数式编程：函数，组合和柯里化](https://mp.weixin.qq.com/s/dvhT0UPS9nc9cC5fS4x1YA)
+  - [对于 JavaScript 中循环之间的技术差异概述](https://mp.weixin.qq.com/s/MtH7NRIPz1dKTHP_QvC-Lg)
   - [关于 JavaScript 错误处理的最完整指南(上半部)](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247491181&idx=1&sn=294135ad062b789ad3405a430f5b102b&chksm=e95cf238de2b7b2e744a9db38991e7e960ac65308054b9d206b0c98a0a63348dc4de2aae470a&token=1734057872&lang=zh_CN#rd)
   - [关于 JavaScript 错误处理的最完整指南(下半部)](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247491181&idx=1&sn=294135ad062b789ad3405a430f5b102b&chksm=e95cf238de2b7b2e744a9db38991e7e960ac65308054b9d206b0c98a0a63348dc4de2aae470a&token=1734057872&lang=zh_CN#rd)
   - [JavaScript 字符串中的 pad 方法！](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247490806&idx=2&sn=bb362b6c25275e7bbc37415c4cddb58f&chksm=e95cf0a3de2b79b5749c21396daad14b2c7f2af09438ab1f7cbf2a70e059eca489755f8be9c2&token=1734057872&lang=zh_CN#rd)
