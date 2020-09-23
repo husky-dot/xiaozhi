@@ -11,8 +11,7 @@
   <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAoLE6d2w5C2WKVGmRbp_1zsw0gUzoxIySO-RwB1xeDKg"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
   <a href="https://juejin.im/user/2330620350435501"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/funny-xiaozhi"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
-  <a href="https://blog.csdn.net/qq449245884"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-</p>
+
 
 
 ### 《CSS创意特效》
