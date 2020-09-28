@@ -16,8 +16,11 @@
 本人与出版社达成合作，如果今天推送的文章合适，就会送书5本相关的前端书籍（包邮），为了帮助更多的初学者，特意组建了几个福利送书群，有书会第一时间再群里更新，需要的可以进来，如果满200了，加我微信。
 
 ps：为了避免群里都是文章，谢绝一切公众号主，如果发现。会先小飞机，还请配合谅解一下，毕竟已经开放了三个群让大家发文章了。
-  
-![](https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/66/fivegroup.jpg)
+
+
+<p align="center">
+  <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/66/fivegroup.jpg" width="100"/>
+</p>
 
 
 ### 《CSS创意特效》
