@@ -19,7 +19,7 @@ ps：为了避免群里都是文章，谢绝一切公众号主，如果发现。
 
 
 <p align="center">
-  <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/66/fivegroup.jpg" width="100"/>
+  <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/66/fivegroup.jpg" width="200"/>
 </p>
 
 
