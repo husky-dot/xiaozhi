@@ -103,6 +103,8 @@ ps：为了避免群里都是文章，谢绝一切公众号主，如果发现。
 
 - JavaScript 深入浅出
 
+  - [9 个JavaScript 技巧](https://mp.weixin.qq.com/s/voEyXdr2fepfF5amJaoXZA)
+
   - [比较JavaScript中的数据结构（数组与对象）](https://mp.weixin.qq.com/s/nbYsKonWtLNK95jMd4dY-A)
 
   - [JavaScript 中的函数式编程：函数，组合和柯里化](https://mp.weixin.qq.com/s/dvhT0UPS9nc9cC5fS4x1YA)
