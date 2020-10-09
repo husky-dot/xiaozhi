@@ -95,6 +95,8 @@
 
 - JavaScript 深入浅出
 
+  - [JavaScript 中 10 个需要掌握基础的问题](https://mp.weixin.qq.com/s/q0Pvqi9oHOXn7hO02_v4_g)
+
   - [9 个JavaScript 技巧](https://mp.weixin.qq.com/s/voEyXdr2fepfF5amJaoXZA)
 
   - [比较JavaScript中的数据结构（数组与对象）](https://mp.weixin.qq.com/s/nbYsKonWtLNK95jMd4dY-A)
