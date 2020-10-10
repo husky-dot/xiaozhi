@@ -39,6 +39,10 @@
   - [看完这几道 JavaScript 面试题，让你与考官对答如流（下）](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247486159&idx=1&sn=34440d8c4595efdaa2e70af4263e604e&chksm=e95ce69ade2b6f8cfd0aa0f587586553e938be872c38da0acaa2ecec365b4ebde862e1d69e60&token=450925916&lang=zh_CN#rd)
   - [看完这几道 JavaScript 面试题，让你与考官对答如流（中）](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247486155&idx=1&sn=43bd92968875847fd48fae4366366e87&chksm=e95ce69ede2b6f88c01aa8c3aafe92d7b72698503bdf03215eb622b6d221a795e38b175c37dc&token=450925916&lang=zh_CN#rd)
   - [看完这几道 JavaScript 面试题，让你与考官对答如流（上）](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247486147&idx=2&sn=263cb09017fee16a7336753e6167ade4&chksm=e95ce696de2b6f8047ae8f8428c07a7c307b98e2b04f4879d614c2c1d7d127baa0d5d87ad594&token=450925916&lang=zh_CN#rd)
+  
+- vue3 进阶
+  - [深入理解 Vue3 Reactivity API](https://mp.weixin.qq.com/s/CYTSFsXkOevpZb38psvxZQ)
+  - [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://mp.weixin.qq.com/s/vhwWl4T5xuI-0_r_X4lMBQ)
 
 - vue 进阶
   - [Vue 中如何从插槽中发出数据](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247489652&idx=2&sn=bf0df70a27eea91b0159cbef03f5639a&chksm=e95cf421de2b7d37acfda9d383abc011ac6a8987d7f49611b2abe9104351285874f7e943786f&token=450925916&lang=zh_CN#rd)
@@ -94,6 +98,7 @@
 
 
 - JavaScript 深入浅出
+  - [10个好用的 HTML5 特性](https://mp.weixin.qq.com/s/I42K28dwIxdOj_jO2FMV4g)
 
   - [JavaScript 中 10 个需要掌握基础的问题](https://mp.weixin.qq.com/s/q0Pvqi9oHOXn7hO02_v4_g)
 
