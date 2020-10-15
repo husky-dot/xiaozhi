@@ -100,7 +100,7 @@
 
 - JavaScript 深入浅出
 
-
+  - [深入探讨 JavaScript 逻辑赋值运算符](https://mp.weixin.qq.com/s/p5b8a2pRHJUXDihmb4t2rA)
   - [将你的 Virtual dom 渲染成 Canvas](https://mp.weixin.qq.com/s/BxNaQDxiqqlDhMRqkK42dw)
   - [h如何用 JS 一次获取 HTML 表单的所有字段 ？](https://mp.weixin.qq.com/s/rjFM9-D0G4bFIh8jRsdu3Q)
   - [10个好用的 HTML5 特性](https://mp.weixin.qq.com/s/I42K28dwIxdOj_jO2FMV4g)
