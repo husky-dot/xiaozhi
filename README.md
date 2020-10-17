@@ -13,9 +13,15 @@
   <a href="https://www.zhihu.com/people/funny-xiaozhi"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   
   
+<p align="center">
+    <a href="https://curl.qcloud.com/HBIv4VIg" target="_blank">
+        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx2.jpg" width=""/>
+    </a>
+</p>  
+  
 
 
-### 《CSS创意特效》
+### 《CSS创意特效专栏》
 
 [第一季(66个前端特效)](https://blog.csdn.net/qq449245884/category_10212382.html?utm_source=ffzl_BWzd)
 
