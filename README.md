@@ -13,10 +13,13 @@
   <a href="https://www.zhihu.com/people/funny-xiaozhi"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   
   
-<p align="center">
-    <a href="https://curl.qcloud.com/HBIv4VIg" target="_blank">
-       <p>【腾讯云】11.11 云上盛惠，云产品限时抢购，1核2G云服务器首年88元</p>
-    </a>
+ <p align="center">
+     <a href="https://curl.qcloud.com/HBIv4VIg" target="_blank">
+      【腾讯云】11.11 云上盛惠，云产品限时抢购，1核2G云服务器首年88元
+    </a> 
+ </p>   
+  
+ <p align="center">
     <a href="https://curl.qcloud.com/HBIv4VIg" target="_blank">
         <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx6.jpg" width=""/>
     </a>
