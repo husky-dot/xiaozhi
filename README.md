@@ -17,6 +17,9 @@
     <a href="https://curl.qcloud.com/HBIv4VIg" target="_blank">
         <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx2.jpg" width=""/>
     </a>
+      <a href="https://curl.qcloud.com/HBIv4VIg" target="_blank">
+        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx2.jpg" width=""/>
+    </a>
 </p>  
   
 
