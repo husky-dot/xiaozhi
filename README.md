@@ -18,7 +18,7 @@
         <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx2.jpg" width=""/>
     </a>
       <a href="https://cloud.tencent.com/act/double11/go?fromSource=gwzcw.4050961.4050961.4050961&utm_medium=cps&utm_id=gwzcw.4050961.4050961.4050961&cps_key=2fde487a67dd50010d503c5d2120fa91" target="_blank">
-        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx5.jpg" width=""/>
+        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx3.jpg" width=""/>
     </a>
 </p>  
   
