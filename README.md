@@ -27,12 +27,7 @@
         <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx3.jpg" width=""/>
     </a>
 </p>  
-  
- <p style="position:fixed; right:0;top:0;">
-     <a class="fixed-right" href="https://curl.qcloud.com/HBIv4VIg" target="_blank" style="text-align:center" align="center">
-        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx7.jpg" width=""/>
-    </a> 
- </p>   
+    
 
 ### 《CSS创意特效专栏》
 
