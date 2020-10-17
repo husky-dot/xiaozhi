@@ -22,7 +22,7 @@
 [第二秀(等级更新中)](https://blog.csdn.net/qq449245884/category_9873715.html)
 
 
-![](https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/s2.png)
+
 
 # 目录(善用Ctrl+F)
 
@@ -276,10 +276,17 @@
     </a>
 </p>
 
+
+![](https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/s2.png)
+
 # 项目经验&服务器
 大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/qq449245884/xiaozhi/issues/210)。
 
-**已结束** 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
+
+
+
+
+ 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
 
 
 <p align="center">
@@ -291,14 +298,7 @@
 买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r)
 
 
-[腾讯云最近在做活动，百款云产品低至 1 折，可以点击本条内容或者链接进行参与](https://cloud.tencent.com/act/cps/redirect?redirect=1050&cps_key=2fde487a67dd50010d503c5d2120fa91&from=console)
 
-
-
-
-[【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年99元](https://curl.qcloud.com/BHuljiwH)
-
-[【腾讯云】境外1核2G服务器低至2折，半价续费券限量免费领取！](https://curl.qcloud.com/PR4g2cGQ)
 
 
 [华为云200元无门槛代金券+免费领取一台服务器一个月（代金券可以用来续费免费的服务器。有些小伙伴可能需要更多的时长，更高的配置！！！参与最新活动！华为云服务器1核2G1M带宽服务器281元一年起，可购买三年！！！2核4G2M服务器，499元一年，可购买三年！！！注意：优惠产品仅限华为云新用户，如要购买，一定不要提前使用代金券，用了代金券就失去了新用户资格！！！](https://account.huaweicloud.com/obmgr/invitation/invitation.html?bpName=000000010000000224667831B68E0F935427E91CD486900EBFBEE08A3A19A12681BCE2B746B61402B95395AD9CCD5D1D32FB339B62D3097F8CA6295E5CC237328FB9710831E225E1&inviteCode=0000000100000002F15D36E330FC946E0F19B55022BE2B4257A68E35F1BD4524044C75907E57CB9D&bindType=1&isDefault=1)
