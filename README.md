@@ -28,7 +28,14 @@
     </a>
 </p>  
   
-
+ <p align="center">
+     <style>
+     .fixed-right{position:fixed; right:0;}
+    </style>
+     <a class="fixed-right" href="https://curl.qcloud.com/HBIv4VIg" target="_blank" style="text-align:center" align="center">
+        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx7.jpg" width=""/>
+    </a> 
+ </p>   
 
 ### 《CSS创意特效专栏》
 
