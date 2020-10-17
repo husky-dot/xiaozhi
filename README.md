@@ -17,7 +17,6 @@
     <a href="https://curl.qcloud.com/HBIv4VIg" target="_blank">
        <p>【腾讯云】11.11 云上盛惠，云产品限时抢购，1核2G云服务器首年88元</p>
     </a>
-
     <a href="https://curl.qcloud.com/HBIv4VIg" target="_blank">
         <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/service/tx6.jpg" width=""/>
     </a>
