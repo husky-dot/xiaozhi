@@ -28,7 +28,7 @@
     </a>
 </p>
 
-<img src="http://qifbiarro.hn-bkt.clouddn.com/tx1.png" width=""/>
+<img src="http://www.longstudy.club/tx1.png" width=""/>
 
     
 
