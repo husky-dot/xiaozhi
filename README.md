@@ -21,7 +21,7 @@
   
  <p align="center">
     <a href="https://curl.qcloud.com/HBIv4VIg" target="_blank">
-        <img src="http://www.longstudy.club/tx2.jpg" width=""/>
+        <img src="http://www.longstudy.club/tx3.jpg" width=""/>
     </a>
       <a href="//cloud.tencent.com/act/double11/go?fromSource=gwzcw.4050961.4050961.4050961&utm_medium=cps&utm_id=gwzcw.4050961.4050961.4050961&cps_key=2fde487a67dd50010d503c5d2120fa91" target="_blank">
         <img src="http://www.longstudy.club/tx1.jpg" width=""/>
