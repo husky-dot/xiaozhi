@@ -115,7 +115,8 @@
 
 
 - JavaScript 深入浅出
-
+  - [JavaScript 中如何判断变量是否为数字](https://mp.weixin.qq.com/s/egekZKZyvImcKcwhD2bsnA)
+  - [仅需 5 分钟，快速优化 Web 性能的10 个手段](https://mp.weixin.qq.com/s/0S985qM48Nnhvm7jZ7yhPg)
   - [深入探讨 JavaScript 逻辑赋值运算符](https://mp.weixin.qq.com/s/p5b8a2pRHJUXDihmb4t2rA)
   - [将你的 Virtual dom 渲染成 Canvas](https://mp.weixin.qq.com/s/BxNaQDxiqqlDhMRqkK42dw)
   - [h如何用 JS 一次获取 HTML 表单的所有字段 ？](https://mp.weixin.qq.com/s/rjFM9-D0G4bFIh8jRsdu3Q)
@@ -200,6 +201,7 @@
   
   
 - CSS 技巧
+  - [超越媒体查询：使用更新的特性进行响应式设计](https://mp.weixin.qq.com/s/d6FVx9fALtusgL-vsf8abQ)
   - [多个你不知道的 CSS 居中方案！](https://mp.weixin.qq.com/s/kpZoDxjL8HV3kCSr7H5dsA)
   - [深入了解 Flex 属性](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247491317&idx=1&sn=dae3bb9b5621af17b092a4f274235b49&chksm=e95cf2a0de2b7bb6a96e97acd67c8020db02b4db762213e4a93c2a9369c727954b29805d9f21&token=450925916&lang=zh_CN#rd)
   - [一次解决你的图像尺寸和定位问题](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247491222&idx=2&sn=267ceee9944b39545d9ad6db47937fbf&chksm=e95cf2c3de2b7bd5f1c3870b31885034ac2838a0bae7c7477dcc4b605508054d13ab0fe58263&token=450925916&lang=zh_CN#rd)
