@@ -57,11 +57,14 @@
   - [看完这几道 JavaScript 面试题，让你与考官对答如流（上）](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247486147&idx=2&sn=263cb09017fee16a7336753e6167ade4&chksm=e95ce696de2b6f8047ae8f8428c07a7c307b98e2b04f4879d614c2c1d7d127baa0d5d87ad594&token=450925916&lang=zh_CN#rd)
   
 - vue3 进阶
+  - [关于 Vue3 这些知识，你可能还不知道!](https://mp.weixin.qq.com/s/n045c6Oa0ulpYd9vva5o0A)
+  - [一文让你30分钟快速掌握Vue3](https://mp.weixin.qq.com/s/1orWGlOXT2Wn2pJLK6VAIg)
   - [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://mp.weixin.qq.com/s/vhwWl4T5xuI-0_r_X4lMBQ)
   - [深入理解 Vue3 Reactivity API](https://mp.weixin.qq.com/s/CYTSFsXkOevpZb38psvxZQ)
   - [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://mp.weixin.qq.com/s/vhwWl4T5xuI-0_r_X4lMBQ)
 
 - vue 进阶
+  - [vue源码中值得学习的方法](https://mp.weixin.qq.com/s/bN5aHzxyn47zKJ3XKhh1DQ)
   - [Vue 中如何从插槽中发出数据](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247489652&idx=2&sn=bf0df70a27eea91b0159cbef03f5639a&chksm=e95cf421de2b7d37acfda9d383abc011ac6a8987d7f49611b2abe9104351285874f7e943786f&token=450925916&lang=zh_CN#rd)
   - [一个孤独的孩子：我该不该将控制流指令写入通用结构组件中？](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247489220&idx=2&sn=cd79f12b3a57b281d3e59fe8711fbc83&chksm=e95cfa91de2b738744ad5b92179e6d7fde8858c45b0eea091fa0bfec2f4387628b0810f508e5&token=450925916&lang=zh_CN#rd)
   - [对于组件的可重用性，大佬给出来6个级别的见解，一起过目一下！](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247489075&idx=1&sn=d33a942b4f9623fc71e7b3bff99d00ee&chksm=e95cfa66de2b7370b4c72254da8b90a809608585733d7c2667df21b3be1e997d3d60196a6951&token=450925916&lang=zh_CN#rd)
@@ -115,6 +118,9 @@
 
 
 - JavaScript 深入浅出
+
+  - [学会 Math 对象这 10 个方法，能让你事半功倍!](https://mp.weixin.qq.com/s/JEQpi4LdqokkhA-4tZsvLQ)
+  - [初学者怎样学习 JS 更有效？六个方法供你参考！](https://mp.weixin.qq.com/s/GcL0P1XnsnUvgzDAvn8ogg)
   - [JavaScript 中如何判断变量是否为数字](https://mp.weixin.qq.com/s/egekZKZyvImcKcwhD2bsnA)
   - [仅需 5 分钟，快速优化 Web 性能的10 个手段](https://mp.weixin.qq.com/s/0S985qM48Nnhvm7jZ7yhPg)
   - [深入探讨 JavaScript 逻辑赋值运算符](https://mp.weixin.qq.com/s/p5b8a2pRHJUXDihmb4t2rA)
@@ -201,6 +207,8 @@
   
   
 - CSS 技巧
+  - [CSS垂直居中的七个方法](https://mp.weixin.qq.com/s/gN8Rh0EJx5m3HFFfsNfKKw)
+  - [使用网络构建复杂布局超实用的技巧，赶紧收藏吧!](https://mp.weixin.qq.com/s/tIGYrkV8cVH5W7jUidCdNg)
   - [超越媒体查询：使用更新的特性进行响应式设计](https://mp.weixin.qq.com/s/d6FVx9fALtusgL-vsf8abQ)
   - [多个你不知道的 CSS 居中方案！](https://mp.weixin.qq.com/s/kpZoDxjL8HV3kCSr7H5dsA)
   - [深入了解 Flex 属性](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247491317&idx=1&sn=dae3bb9b5621af17b092a4f274235b49&chksm=e95cf2a0de2b7bb6a96e97acd67c8020db02b4db762213e4a93c2a9369c727954b29805d9f21&token=450925916&lang=zh_CN#rd)
