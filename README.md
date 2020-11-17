@@ -11,30 +11,13 @@
   <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAoLE6d2w5C2WKVGmRbp_1zsw0gUzoxIySO-RwB1xeDKg"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
   <a href="https://juejin.im/user/2330620350435501"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/funny-xiaozhi"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
-  
-  
-大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/qq449245884/xiaozhi/issues/210)。  
-  
- <p align="center">
-     <a href="https://cn.aliyun.com/1111/home?userCode=pxuujn3r" target="_blank" style="text-align:center" align="center">
-       <h3 style="text-align:center" align="center">我帮阿里云推广服务器84/年 ，买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈，（老用户用家人的购买，我用我妈的😂）。扫码或者点击购买</h3>
-    </a> 
  </p>
- 
- <p align="center">
-     <a href="https://cn.aliyun.com/1111/home?userCode=pxuujn3r" target="_blank" style="text-align:center" align="center">
-       <h3 style="text-align:center" align="center">【腾讯云】11.11 云上盛惠，云产品限时抢购，1核2G云服务器首年88元</h3>
-    </a> 
- </p>   
- 
- 
-<p align="center">
-  <a href="https://dashi.aliyun.com/site/aobing/ali">
-  <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/tuiguan/a2.png">
-  </a>
-</p>
- 
- 
+  
+
+**最近开源了一个 Vue 组件，还不够完善，欢迎大家来一起完善它，也希望大家能给个 star 支持一下，谢谢各位了。**
+
+github 地址：https://github.com/qq449245884/vue-okr-tree
+
     
 
 ### 《CSS创意特效专栏》
@@ -330,6 +313,11 @@
 买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r)
 
 
+
+
+大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/qq449245884/xiaozhi/issues/210)。  
+  
+ 
 
 
 
