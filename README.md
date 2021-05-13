@@ -25,9 +25,9 @@ github 地址：https://github.com/qq449245884/vue-okr-tree
 
 ### 《CSS创意特效专栏》
 
-[第一季(66个前端特效)](https://blog.csdn.net/qq449245884/category_10212382.html?utm_source=ffzl_BWzd)
-
-[第二秀(等级更新中)](https://blog.csdn.net/qq449245884/category_9873715.html)
+css特效第一季：[https://blog.csdn.net/qq449245884/category_9873715.html](https://blog.csdn.net/qq449245884/category_9873715.html)
+css特效第二季：[https://blog.csdn.net/qq449245884/category_10212382.html](https://blog.csdn.net/qq449245884/category_10212382.html)
+css特效第三季：[https://blog.csdn.net/qq449245884/category_10791873.html](https://blog.csdn.net/qq449245884/category_10791873.html)
 
 
 
@@ -37,6 +37,7 @@ github 地址：https://github.com/qq449245884/vue-okr-tree
 - 真原创文章
   - [【最近项目小结】使用 Vue 实现一个简单的鼠标拖拽滚动效果插件](https://mp.weixin.qq.com/s/Z74evi5kEVBrLfLGWKxCOA)
   - [我开源了第一个基于Vue的组织架构树组件](https://mp.weixin.qq.com/s/ykkYkzlCCqSMDdBTSqsPiQ)
+  - [五一看别人去玩，而我守在这里！](https://mp.weixin.qq.com/s/ZEZsx079COwwX-ndLasQGA)
 
 - 福利
   - [100本最棒前端开发图书](http://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=100007725&idx=1&sn=db3a5857d5b71a5b24355147ab7b8a32&chksm=695cf3785e2b7a6e49c1ed5ba4bb010836c038f54feca61b8bd2a3c21181b0295525b696a052#rd)
@@ -44,6 +45,7 @@ github 地址：https://github.com/qq449245884/vue-okr-tree
 
 
 - 面试
+  - [程序员：如何写出杀手级简历？](https://mp.weixin.qq.com/s/0sXByP1U9HdxEvqS3OkSFg)
   - [35 道咱们必须要清楚的 React 面试题](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247485654&idx=1&sn=d45645ae678a199d6daf4a85c94f3948&chksm=e95ce483de2b6d9573eb5dbf6a7c5df3a96635148f0194e185b39a2ee156fec3815fd6f71233&token=450925916&lang=zh_CN#rd)
   - [常见的三个 JS 面试题](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247485358&idx=1&sn=50d0034e6a70e799dcef1299150bf94d&chksm=e95cebfbde2b62edf11a16f8ea04800b426d9320ec3f41fe479c4a9d3df6cf3a6b0adf809a3d&token=450925916&lang=zh_CN#rd)
   - [36 个JS 面试题为你助力金九银十(面试必读)](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247485239&idx=1&sn=76b460bff92be9f9fecd9148efcee236&chksm=e95ceb62de2b6274b2f9482e3a73e9812d4f64d74f6b0ea9e3cb27a2c42045afa1884e0d746c&token=450925916&lang=zh_CN#rd)
@@ -53,14 +55,29 @@ github 地址：https://github.com/qq449245884/vue-okr-tree
   - [看完这几道 JavaScript 面试题，让你与考官对答如流（上）](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247486147&idx=2&sn=263cb09017fee16a7336753e6167ade4&chksm=e95ce696de2b6f8047ae8f8428c07a7c307b98e2b04f4879d614c2c1d7d127baa0d5d87ad594&token=450925916&lang=zh_CN#rd)
   
 - vue3 进阶
+  - [Vue 3 生命周期完整指南](https://mp.weixin.qq.com/s/ghLAYuC_zYi1ssrfOjKMRg)
+  - [Vue3 Teleport 简介，请过目，这个是真的好用！](https://mp.weixin.qq.com/s/xlytZhw-NGyWwAZiajqU6g)
+  - [尤雨溪：Vue 3 计划放弃支持 IE11](https://mp.weixin.qq.com/s/IYUXuS6KSnz9YCtddqiEFg)
+  - [我问导师，Vue3有没有对应工具来生成漂亮的文档？ 用 Vitepress](https://mp.weixin.qq.com/s/HWydUHElZLDoeHLjqeR1jA)
+  - [推荐 7 个 Vue2、Vue3 源码解密分析的开源项目](https://mp.weixin.qq.com/s/iUP5MV3ZsEFog6_egWTwTQ)
+  - [何时何地使用 Vue 的作用域插槽](https://mp.weixin.qq.com/s/xTWYxK0bzCwNbLIWtb-cOg)
+  - [用了很多动效，介绍 4个很 Nice 的 Veu 路由过渡动效！](https://mp.weixin.qq.com/s/T7zEMTGIJoP6tihhsDHeTw)
+  - [2021，排名前 15 的 Vue 后台管理模板](https://mp.weixin.qq.com/s/4RVwmY8lOi4EmjR3iAW2nw)
+  - [总结一下，Vue3 与 Vue2 的Props、全局组件的异同点！](https://mp.weixin.qq.com/s/9Lx-3uHGXtEgKuQX0rvjow)
   - [关于 Vue3 这些知识，你可能还不知道!](https://mp.weixin.qq.com/s/n045c6Oa0ulpYd9vva5o0A)
   - [一文让你30分钟快速掌握Vue3](https://mp.weixin.qq.com/s/1orWGlOXT2Wn2pJLK6VAIg)
   - [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://mp.weixin.qq.com/s/vhwWl4T5xuI-0_r_X4lMBQ)
   - [深入理解 Vue3 Reactivity API](https://mp.weixin.qq.com/s/CYTSFsXkOevpZb38psvxZQ)
   - [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://mp.weixin.qq.com/s/vhwWl4T5xuI-0_r_X4lMBQ)
+  - [不要再用Vue 2的思维写Vue 3了](https://mp.weixin.qq.com/s/W_2Yb7QkcgOdewVqtaEQQQ)
 
 - vue 进阶
-
+  - [关于 v-model 你需要知道的这一切！](https://mp.weixin.qq.com/s/oGJ6kAbtcFIWHpD2belE8Q)
+  - [10个略骚的 Vue 开发技巧](https://mp.weixin.qq.com/s/No94dcg4B0NGvC8bGkvDUQ)
+  - [使用 Vue 开发的，这 7 个 VS Code 插件万万不可错过！](https://mp.weixin.qq.com/s/mkekpZOKGn4xk-LhFA2_DQ)
+  - [Vue 官方成员 Hcy：怎么才能有尤雨溪一半强，该怎么学习？](https://mp.weixin.qq.com/s/jZBihpL_xjspc4OllpEpHg)
+  - [如何使用 Vue 命名插槽创建多个模板插槽？](https://mp.weixin.qq.com/s/ExvgYkZhRze7jEcUgoiM8Q)
+  - [使用这 6个Vue加载动画库来减少我们网站的跳出率](https://mp.weixin.qq.com/s/95M4pEnNyBmHZTmWzUSa-g)
   - [手把手教你如何在生产环境检查 Vue 应用程序](https://mp.weixin.qq.com/s/nT7XVvB2eJDwx-IwCu4VqQ)
   - [vue源码中值得学习的方法](https://mp.weixin.qq.com/s/bN5aHzxyn47zKJ3XKhh1DQ)
   - [Vue 中如何从插槽中发出数据](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247489652&idx=2&sn=bf0df70a27eea91b0159cbef03f5639a&chksm=e95cf421de2b7d37acfda9d383abc011ac6a8987d7f49611b2abe9104351285874f7e943786f&token=450925916&lang=zh_CN#rd)
@@ -117,6 +134,7 @@ github 地址：https://github.com/qq449245884/vue-okr-tree
 
 - JavaScript 深入浅出
 
+  - [搞定 parseInt() 的怪异行为](https://mp.weixin.qq.com/s/-CLLMN7lNOABahm1jr_Pyg)
   - [JavaScript 25 岁了！](https://mp.weixin.qq.com/s/9tawsN5_dAhpIvrfB8_cPg)
   - [如何在 JavaScript 中等分数组](https://mp.weixin.qq.com/s/-bxgrQi68YLrrU7KYVxxdw)
   - [17个你可能还不知道 JS 技巧！](https://mp.weixin.qq.com/s/66nC76DWgu5nPLVYYvBADg)
@@ -209,6 +227,10 @@ github 地址：https://github.com/qq449245884/vue-okr-tree
   
   
 - CSS 技巧
+  - [深夜12点，头秃的那家伙，还在用 CSS 处理图片上的文字](https://mp.weixin.qq.com/s/7dQ5HVWV63gc69Oop10GNQ)
+  - [你应该知道的3个强大的CSS功能](https://mp.weixin.qq.com/s/huCYjkBBzJ39OWPf5mdmGQ)
+  - [80%的前端会答错的问题：<img>是什么元素？](https://mp.weixin.qq.com/s/hi8x0cRC9TtaOlzCPwHedg)
+  - [5种作为Web开发人员应避免的CSS做法](https://mp.weixin.qq.com/s/gnbx7MgkRdPIF0TXezquaQ)
  - [响应式网页中的高度设计，你认真的吗？](https://mp.weixin.qq.com/s/eVvH-dBS2ubTivc5hxGYdg)
   - [CSS垂直居中的七个方法](https://mp.weixin.qq.com/s/gN8Rh0EJx5m3HFFfsNfKKw)
   - [使用网络构建复杂布局超实用的技巧，赶紧收藏吧!](https://mp.weixin.qq.com/s/tIGYrkV8cVH5W7jUidCdNg)
