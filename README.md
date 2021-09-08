@@ -37,9 +37,13 @@ css特效第三季：[https://blog.csdn.net/qq449245884/category_10791873.html](
 # 目录(善用Ctrl+F)
 
 - 真原创文章
+  - [我司是怎么封装 axios 来处理百万级流量中平时少见过的问题~](https://mp.weixin.qq.com/s/F0bj54jw_Ht40XPBxRlO6w)
+  - [提供可制定化的路由加载方式，Vue 如何做到？| 小智内部团队分享](https://mp.weixin.qq.com/s/HuiGjesmY2p-r422CTuKxw)
   - [【最近项目小结】使用 Vue 实现一个简单的鼠标拖拽滚动效果插件](https://mp.weixin.qq.com/s/Z74evi5kEVBrLfLGWKxCOA)
   - [我开源了第一个基于Vue的组织架构树组件](https://mp.weixin.qq.com/s/ykkYkzlCCqSMDdBTSqsPiQ)
+  - [这7个 Vue 模式，可能你经常用！但现在看对你很有帮助！](https://mp.weixin.qq.com/s/FS4rt9O_GokiTn3JUmBrjw)
   - [五一看别人去玩，而我守在这里！](https://mp.weixin.qq.com/s/ZEZsx079COwwX-ndLasQGA)
+  - [25个 Vue 技巧，开发了5年了，才知道还能这么用](https://mp.weixin.qq.com/s/1-MMfC-tDNM5iSWTt1d8Vg)
 
 - 福利
   - [100本最棒前端开发图书](http://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=100007725&idx=1&sn=db3a5857d5b71a5b24355147ab7b8a32&chksm=695cf3785e2b7a6e49c1ed5ba4bb010836c038f54feca61b8bd2a3c21181b0295525b696a052#rd)
@@ -57,6 +61,11 @@ css特效第三季：[https://blog.csdn.net/qq449245884/category_10791873.html](
   - [看完这几道 JavaScript 面试题，让你与考官对答如流（上）](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247486147&idx=2&sn=263cb09017fee16a7336753e6167ade4&chksm=e95ce696de2b6f8047ae8f8428c07a7c307b98e2b04f4879d614c2c1d7d127baa0d5d87ad594&token=450925916&lang=zh_CN#rd)
   
 - vue3 进阶
+  - [尤大在 Vue的生态进展中提到的 <style> 动态变量注入是啥？](https://mp.weixin.qq.com/s/JCUvtp0HI4oPdosOzFsI1A)
+  - [介绍一下 Vue Conf 21 大会上：尤大提到 script setup 语法！](https://mp.weixin.qq.com/s/X9J80_IXMsvGL3ez51nSgA)
+  - [我们团队在 Vue 3 Dev Tools 的帮助下，调试效率有了质的飞跃！](https://mp.weixin.qq.com/s/boiwnfLN1xRBYZ51rj6QMA)
+  - [Vuex 4 指南，使用 Vue3 的需要看看！](https://mp.weixin.qq.com/s/iOhlnLvhCMFFi8XD-bmUjQ)
+  - [一些你可能还不知事件技巧– Vue3更新](https://mp.weixin.qq.com/s/gyY0zw5-P588-odLniNN6w)
   - [Vue 3 生命周期完整指南](https://mp.weixin.qq.com/s/ghLAYuC_zYi1ssrfOjKMRg)
   - [Vue3 Teleport 简介，请过目，这个是真的好用！](https://mp.weixin.qq.com/s/xlytZhw-NGyWwAZiajqU6g)
   - [尤雨溪：Vue 3 计划放弃支持 IE11](https://mp.weixin.qq.com/s/IYUXuS6KSnz9YCtddqiEFg)
@@ -72,7 +81,22 @@ css特效第三季：[https://blog.csdn.net/qq449245884/category_10791873.html](
   - [深入理解 Vue3 Reactivity API](https://mp.weixin.qq.com/s/CYTSFsXkOevpZb38psvxZQ)
   - [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://mp.weixin.qq.com/s/vhwWl4T5xuI-0_r_X4lMBQ)
   - [不要再用Vue 2的思维写Vue 3了](https://mp.weixin.qq.com/s/W_2Yb7QkcgOdewVqtaEQQQ)
+  - [https://mp.weixin.qq.com/s/mPW-VTfeWVlktlyAom3LQg](https://mp.weixin.qq.com/s/mPW-VTfeWVlktlyAom3LQg)
+  
+- TypeScript 深入浅出
+  - [使用更具可读性的方式来设置 TypeScript 类型](https://mp.weixin.qq.com/s/KMOnxduu_Nui1Lyui_lv_w)
+  - [使用 TypeScript 常见困惑：interface 和 type 的区别是什么？](https://mp.weixin.qq.com/s/FKyulMaM7Rx6glGCqEihWg)
+  - [比同事更秀? TS 这7个方法，你需要知道的！](https://mp.weixin.qq.com/s/c7p4IbGKjKqifVNmErU0Mw)
+  - [这 6 个 TS 新特性经常用到，用了之后我再也离不开它！](https://mp.weixin.qq.com/s/c9SwF1VgM_9c8dT1QfB2VA)
 
+  熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
+<p align="center">
+    <a href="https://github.com/qq449245884/xiaozhi" target="_blank">
+        <img src="https://segmentfault.com/img/bVbCpkI" width=""/>
+    </a>
+</p>
+
+  
 - vue 进阶
   - [关于 v-model 你需要知道的这一切！](https://mp.weixin.qq.com/s/oGJ6kAbtcFIWHpD2belE8Q)
   - [10个略骚的 Vue 开发技巧](https://mp.weixin.qq.com/s/No94dcg4B0NGvC8bGkvDUQ)
@@ -135,7 +159,13 @@ css特效第三季：[https://blog.csdn.net/qq449245884/category_10791873.html](
 
 
 - JavaScript 深入浅出
-
+  - [巩固一下 JS 可选 (?.)操作符号，原来函数也可以用可选写法，又学到了！](https://mp.weixin.qq.com/s/t2GdxrP905hRJUtaLFvd1A)
+  - [20个 Javascript 技巧，提高我们的摸鱼时间！](https://mp.weixin.qq.com/s/CgIwB2NFNTIAjRhXMJJ5hA)
+  - [宝，如何动态导入ECMAScript模块？](https://mp.weixin.qq.com/s/8lzulNvC9HpXQMuAn62grw)
+  - [该来的还是来了，盘点 ES12 中有新特性！](https://mp.weixin.qq.com/s/zbPh2rwdl-YofZZQcOVzNg)
+  - [5年前，学习 null 和 undefined ，现在有了新的认知，看看这位人才怎么说？](https://mp.weixin.qq.com/s/ntaESH4nNfk78UXURfQiPg)
+  - [你可能不知道，前端这6个有用的技术可以这么酷！](https://mp.weixin.qq.com/s/mr4a71XhsVDs0cznoLN98Q)
+  - [12种 console 相关的方法，帮你快速提高调试效率！（建议收藏）](https://mp.weixin.qq.com/s/VVuMva9EPpB0TMVyuH3G5g)
   - [搞定 parseInt() 的怪异行为](https://mp.weixin.qq.com/s/-CLLMN7lNOABahm1jr_Pyg)
   - [JavaScript 25 岁了！](https://mp.weixin.qq.com/s/9tawsN5_dAhpIvrfB8_cPg)
   - [如何在 JavaScript 中等分数组](https://mp.weixin.qq.com/s/-bxgrQi68YLrrU7KYVxxdw)
@@ -229,6 +259,9 @@ css特效第三季：[https://blog.csdn.net/qq449245884/category_10791873.html](
   
   
 - CSS 技巧
+  - [学姐叫我看 CSS 新出的容器查询，然后把公共组件重构成响应式的！](https://mp.weixin.qq.com/s/K_FhwpgQTXDIS0qsKTq9_Q)
+  - [宝， 来学习一下CSS中的宽高比，让 h5 开发更想你的夜！](https://mp.weixin.qq.com/s/x0G4hDA0sPVT4bppa6S8jg)
+  - [学会使用 CSS 自定义滚动条，能让你做的产品更有用户体验！](https://mp.weixin.qq.com/s/_iNAT-he6YJ8q8tDxYzmKg)
   - [深夜12点，头秃的那家伙，还在用 CSS 处理图片上的文字](https://mp.weixin.qq.com/s/7dQ5HVWV63gc69Oop10GNQ)
   - [你应该知道的3个强大的CSS功能](https://mp.weixin.qq.com/s/huCYjkBBzJ39OWPf5mdmGQ)
   - [80%的前端会答错的问题：<img>是什么元素？](https://mp.weixin.qq.com/s/hi8x0cRC9TtaOlzCPwHedg)
