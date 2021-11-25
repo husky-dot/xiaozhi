@@ -19,9 +19,13 @@
 
 ### 个人开源项目
 
-github 地址：https://github.com/qq449245884/vue-okr-tree
+#### vue-or-tree  基于 Vue 2的组织架构树组件
 
-    
+* github 地址：https://github.com/qq449245884/vue-okr-tree
+
+#### ztjy-cli 模板脚手架
+
+* https://github.com/qq449245884/ztjy-cli
 
 ### 《CSS创意特效专栏》
 
