@@ -17,7 +17,7 @@
 **双12阿里服务器`27`块，通用[点击这里](https://www.aliyun.com/minisite/goods?taskCode=pintuan20201212&recordId=297031&userCode=pxuujn3r)购买可以找我（微信号：qq449245884）返现30，等于`27`块就能买到了，只限新用户，可以用家人的手机号购买！**
   
 
-**最近开源了一个 Vue 组件，还不够完善，欢迎大家来一起完善它，也希望大家能给个 star 支持一下，谢谢各位了。**
+### 个人开源项目
 
 github 地址：https://github.com/qq449245884/vue-okr-tree
 
