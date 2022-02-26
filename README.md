@@ -14,6 +14,9 @@
  </p>
 
   
+  vue3 源码实战出来啦：[在面试中，害怕被问到 Vue源码，或者想通过自己对Vue 源码的来秀一下面试官的，可以了解一下。](https://appewiejl9g3764.h5.xiaoeknow.com/v1/course/column/p_61fb595ce4b0beaee4275e1e?type=3&entry=2&entry_type=2008&scene=&share_type=5&share_user_id=u_6201b994c63e3_bWY1LynHqu
+)
+  
 
 ### 个人开源项目
 
