@@ -12,9 +12,7 @@
   <a href="https://juejin.im/user/2330620350435501"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/funny-xiaozhi"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
  </p>
- 
- 
-**双12阿里服务器`27`块，通用[点击这里](https://www.aliyun.com/minisite/goods?taskCode=pintuan20201212&recordId=297031&userCode=pxuujn3r)购买可以找我（微信号：qq449245884）返现30，等于`27`块就能买到了，只限新用户，可以用家人的手机号购买！**
+
   
 
 ### 个人开源项目
