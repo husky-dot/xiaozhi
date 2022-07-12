@@ -1,4 +1,4 @@
-我不是什么大牛，我其实想做的就是一个传播者。内容可能过于基础，但对于刚入门的人来说或许是一个窗口，一个解惑之窗。我要先坚持分享20年，大家来一起见证吧。
+我要先坚持分享20年，大家来一起见证吧。
 
 每年至少会分享不少于`200篇`的优质文章，如果想第一时间获取文章，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#公众号)提意见(别忘记**Star**哟)。
 
@@ -366,36 +366,6 @@ css特效第三季：[https://blog.csdn.net/qq449245884/category_10791873.html](
 
 
 ![](https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/s2.png)
-
-# 项目经验&服务器
-大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/qq449245884/xiaozhi/issues/210)。
-
-
-
-
-
- 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
-
-
-<p align="center">
-    <a href="https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r" target="_blank">
-        <img src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/ali.jpg" width="100"/>
-    </a>
-</p>
-
-买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://cn.aliyun.com/minisite/goods?userCode=pxuujn3r)
-
-
-
-
-大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/qq449245884/xiaozhi/issues/210)。  
-  
- 
-
-
-
-[华为云200元无门槛代金券+免费领取一台服务器一个月（代金券可以用来续费免费的服务器。有些小伙伴可能需要更多的时长，更高的配置！！！参与最新活动！华为云服务器1核2G1M带宽服务器281元一年起，可购买三年！！！2核4G2M服务器，499元一年，可购买三年！！！注意：优惠产品仅限华为云新用户，如要购买，一定不要提前使用代金券，用了代金券就失去了新用户资格！！！](https://account.huaweicloud.com/obmgr/invitation/invitation.html?bpName=000000010000000224667831B68E0F935427E91CD486900EBFBEE08A3A19A12681BCE2B746B61402B95395AD9CCD5D1D32FB339B62D3097F8CA6295E5CC237328FB9710831E225E1&inviteCode=0000000100000002F15D36E330FC946E0F19B55022BE2B4257A68E35F1BD4524044C75907E57CB9D&bindType=1&isDefault=1)
-
 
 
 # 鸣谢
