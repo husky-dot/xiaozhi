@@ -25,6 +25,10 @@
 
 * https://github.com/qq449245884/ztjy-cli
 
+### 《Vue2与Vue3技巧小册》
+
+地址：[https://blog.csdn.net/qq449245884/category_11915341.html](https://blog.csdn.net/qq449245884/category_11915341.html)
+
 ### 《CSS创意特效专栏》
 
 css特效第一季：[https://blog.csdn.net/qq449245884/category_9873715.html](https://blog.csdn.net/qq449245884/category_9873715.html)
