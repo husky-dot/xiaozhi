@@ -13,7 +13,11 @@
   <a href="https://www.zhihu.com/people/funny-xiaozhi"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
  </p>
 
-  
+### 个人团队项目
+
+**Alien GPT**，它是基于 ChatGPT 技术，集对话、翻译、场景和图片四大功能于一身，只需一个助手，轻松解决你生活中的种种难题！ 另外这个工具是采用 plus 的key，加上多路切换，响应速度快的一匹。
+
+体验地址：https://chat.waixingyun.cn/#/home
 
 ### 个人开源项目
 
