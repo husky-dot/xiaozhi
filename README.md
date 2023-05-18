@@ -32,11 +32,11 @@
 ## 个人专栏
 
 ### 《VueUse源码解读》
-地址:[点这里](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0NDQ0ODU3MA==&action=getalbum&album_id=2854832033280311296&from_itemidx=1&from_msgid=2247515074&scene=21&count=3&nolastread=1#wechat_redirect)
+地址：[点这里](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0NDQ0ODU3MA==&action=getalbum&album_id=2854832033280311296&from_itemidx=1&from_msgid=2247515074&scene=21&count=3&nolastread=1#wechat_redirect)
 
 ### 《Vue2与Vue3技巧小册》
 
-地址：[点这里](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI0NDQ0ODU3MA==&scene=21&album_id=2509459125236416515&count=3#wechat_redirect)]([https://blog.csdn.net/qq449245884/category_11915341.html](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI0NDQ0ODU3MA==&scene=21&album_id=2509459125236416515&count=3#wechat_redirect))
+地址：[点这里](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI0NDQ0ODU3MA==&scene=21&album_id=2509459125236416515&count=3#wechat_redirect)]
 
 ### 《CSS创意特效专栏》
 
