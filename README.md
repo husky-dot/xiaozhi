@@ -23,6 +23,12 @@ AICube涵盖了问答、图片、音频、视频4大AIGC模块，欢迎大家注
 
 体验地址：https://cube.waixingyun.cn/
 
+<p align="center">
+    <a href="https://github.com/qq449245884/xiaozhi" target="_blank">
+        <img src="http://www.longstudy.club/code2.jpg" width=""/>
+    </a>
+</p>
+
 
 ## 个人开源项目
 
