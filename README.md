@@ -42,6 +42,9 @@ AICube涵盖了问答、图片、音频、视频4大AIGC模块，欢迎大家注
 
 ## 个人专栏
 
+### 《CSS技巧与案例详解》
+地址：[点这里](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI0NDQ0ODU3MA==&scene=21&album_id=3545535769677725703&count=3&uin=&key=&devicetype=iMac+MacBookPro18%2C3+OSX+OSX+14.3+build(23D56)&version=13080812&lang=zh_CN&nettype=WIFI&ascene=2&fontScale=100#wechat_redirect)
+
 ### 《VueUse源码解读》
 地址：[点这里](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0NDQ0ODU3MA==&action=getalbum&album_id=2854832033280311296&from_itemidx=1&from_msgid=2247515074&scene=21&count=3&nolastread=1#wechat_redirect)
 
