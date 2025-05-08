@@ -14,6 +14,17 @@
  </p>
 
 
+# 我的知识星球
+
+前端AI·探索：涵盖动效、React Hooks、Vue 技巧、LLM 应用、Python 脚本等专栏，案例驱动实战学习。
+
+<p align="center">
+    <a href="https://github.com/qq449245884/xiaozhi" target="_blank">
+        <img src="https://blgos-images.longstudy.club/blogs/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-05-09_000332_213.jpg" width=""/>
+    </a>
+</p>
+
+
 
 ## 个人开源项目
 
