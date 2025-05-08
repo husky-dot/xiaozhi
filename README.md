@@ -13,21 +13,6 @@
   <a href="https://www.zhihu.com/people/funny-xiaozhi"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
  </p>
 
-### 新产品
-
-**Alien GPT**，它是基于 ChatGPT 技术，集对话、翻译、场景和图片四大功能于一身，只需一个助手，轻松解决你生活中的种种难题！ 另外这个工具是采用 plus 的key，加上多路切换，响应速度快的一匹。
-
-体验地址：https://chat.waixingyun.cn/#/home
-
-AICube涵盖了问答、图片、音频、视频4大AIGC模块，欢迎大家注册试用体验。
-
-体验地址：https://cube.waixingyun.cn/
-
-<p align="center">
-    <a href="https://github.com/qq449245884/xiaozhi" target="_blank">
-        <img src="http://www.longstudy.club/code2.jpg" width=""/>
-    </a>
-</p>
 
 
 ## 个人开源项目
